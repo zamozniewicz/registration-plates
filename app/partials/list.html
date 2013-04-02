@@ -1,0 +1,17 @@
+<div class="plate">
+    <div class="plate-country">
+        PL
+    </div>
+    <input ng-model="search.code" class="plate-number" type="text" maxlength="9" autofocus="autofocus">
+</div>
+<ul class="areas">
+    <li ng-repeat="area in areas | filter:search" ng-class="{ 'is-capital': area.isCapital }">
+        <div class="areas-code">{{ area.code }}</div>
+        <div class="areas-name">{{ area.name }}</div>
+        <div class="areas-more">
+            {{ area.region }}
+            <a href="{{ getMapLink(area.name, area.region) }}" title="Google Maps"><img src="img/icon-map.png" height="24"></a>
+            <a href="{{ area.wiki }}" title="Wikipedia"><img src="img/icon-wikipedia.png" height="24"></a>
+        </div>
+    </li>
+</ul>

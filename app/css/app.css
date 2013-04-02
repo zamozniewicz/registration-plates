@@ -1,0 +1,108 @@
+html {
+    /* Force vertical scrollbar to prevent jump when content changes */
+    overflow-y: scroll;
+}
+
+body {
+    font: normal 16px/22px Geneva, 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+.wrapper {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.top {
+    margin: 48px 0;
+    text-align: center;
+}
+
+.top h1 {
+    margin: 32px 0;
+    text-transform: uppercase;
+    font-size: 48px;
+    font-weight: normal;
+    line-height: 54px;
+}
+
+.top p {
+    margin: 16px 0;
+}
+
+.plate {
+    width: 506px;
+    margin: 0 auto 48px;
+    border: solid 7px #000;
+
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.plate-country {
+    float: left;
+    width: 40px;
+    height: 60px;
+    padding: 40px 0 0;
+    background: #003cff url(../img/plate-brand.png) no-repeat center 13px;
+    background-size: 32px 32px;
+    color: #fff;
+    font: normal 20px/60px 'arklas_tablica_samochodowaRg', sans-serif;
+    text-align: center;
+}
+
+.plate-number {
+    display: block;
+    width: 426px;
+    height: 80px;
+    padding: 10px 20px;
+    border: 0;
+    text-transform: uppercase;
+    font: normal 74px/80px 'arklas_tablica_samochodowaRg', sans-serif;
+}
+
+.areas {
+    width: 506px;
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+    color: #333;
+}
+
+.areas li {
+    overflow: hidden;
+    padding: 10px 20px;
+    border-bottom: solid 1px #ccc;
+}
+
+.areas li:first-child {
+    border-top: solid 1px #ccc;
+}
+
+.areas .is-capital {
+    background: #f0f0f0;
+}
+
+.areas-code {
+    float: left;
+    width: 120px;
+    font-size: 36px;
+    line-height: 42px;
+}
+
+.areas-name {
+    margin-left: 120px;
+    font-size: 36px;
+    line-height: 42px;
+    color: #000;
+}
+
+.areas-more {
+    padding: 10px 0 0;
+    line-height: 24px;
+}
+
+.areas-more a {
+    float: right;
+    margin: 0 0 0 20px;
+}
