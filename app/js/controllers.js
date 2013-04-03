@@ -4,7 +4,7 @@
 
 function PlatesListCtrl($scope) {
     $scope.getMapLink = function (area, region) {
-        var location = ['Polska', region, name].join(', ');
+        var location = ['Polska', region, area].join(', ');
         location = encodeURIComponent(location);
         return 'http://maps.google.com/?q=' + location;
     };
