@@ -1,0 +1,2345 @@
+
+<head>
+	<meta charset="utf-8" />
+</head>
+<table class="table_rej">
+	<tbody>
+
+<!-- ############ WYROZNIKI POWIATOW ############# -->
+		<tr>
+			<td>BAU</td>
+			<td>Augustów</td>
+		</tr>
+		<tr>
+			<td>BBI</td>
+			<td>Bielsk Podlaski</td>
+		</tr>
+		<tr>
+			<td>BGR</td>
+			<td>Grajewo</td>
+		</tr>
+		<tr>
+			<td>BHA</td>
+			<td>Hajnówka</td>
+		</tr>
+		<tr>
+			<td>BI</td>
+			<td>Białystok (miasto)</td>
+		</tr>
+		<tr>
+			<td>BIA</td>
+			<td>Białystok (powiat)</td>
+		</tr>
+		<tr>
+			<td>BKL</td>
+			<td>Kolno</td>
+		</tr>
+		<tr>
+			<td>BL</td>
+			<td>Łomża (miasto)</td>
+		</tr>
+		<tr>
+			<td>BLM</td>
+			<td>Łomża (powiat)</td>
+		</tr>
+		<tr>
+			<td>BMN</td>
+			<td>Mońki</td>
+		</tr>
+		<tr>
+			<td>BS</td>
+			<td>Suwałki</td>
+		</tr>
+		<tr>
+			<td>BSE</td>
+			<td>Sejny</td>
+		</tr>
+		<tr>
+			<td>BSI</td>
+			<td>Siemiatycze</td>
+		</tr>
+		<tr>
+			<td>BSK</td>
+			<td>Sokółka</td>
+		</tr>
+		<tr>
+			<td>BSU</td>
+			<td>Suwałki</td>
+		</tr>
+		<tr>
+			<td>BWM</td>
+			<td>Wysokie Mazowieckie</td>
+		</tr>
+		<tr>
+			<td>BZA</td>
+			<td>Zambrów</td>
+		</tr>
+		<tr>
+			<td>CAL</td>
+			<td>Aleksandrów Kujawski</td>
+		</tr>
+		<tr>
+			<td>CB</td>
+			<td>Bydgoszcz (miasto)</td>
+		</tr>
+		<tr>
+			<td>CBR</td>
+			<td>Brodnica</td>
+		</tr>
+		<tr>
+			<td>CBY</td>
+			<td>Bydgoszcz (powiat)</td>
+		</tr>
+		<tr>
+			<td>CCH</td>
+			<td>Chełmno</td>
+		</tr>
+		<tr>
+			<td>CG</td>
+			<td>Grudziądz</td>
+		</tr>
+		<tr>
+			<td>CGD</td>
+			<td>Golub Dobrzyń</td>
+		</tr>
+		<tr>
+			<td>CIN</td>
+			<td>Inowrocław</td>
+		</tr>
+		<tr>
+			<td>CLI</td>
+			<td>Lipno</td>
+		</tr>
+		<tr>
+			<td>CMG</td>
+			<td>Mogilno</td>
+		</tr>
+		<tr>
+			<td>CNA</td>
+			<td>Nakło nad Notecią</td>
+		</tr>
+		<tr>
+			<td>CRA</td>
+			<td>Radziejów</td>
+		</tr>
+		<tr>
+			<td>CRY</td>
+			<td>Rypin</td>
+		</tr>
+		<tr>
+			<td>CS</td>
+			<td>Świecie</td>
+		</tr>
+		<tr>
+			<td>CSE</td>
+			<td>Sępólno Krajeńskie</td>
+		</tr>
+		<tr>
+			<td>CT</td>
+			<td>Toruń (miasto)</td>
+		</tr>
+		<tr>
+			<td>CTR</td>
+			<td>Toruń (powiat)</td>
+		</tr>
+		<tr>
+			<td>CTU</td>
+			<td>Tuchola</td>
+		</tr>
+		<tr>
+			<td>CWA</td>
+			<td>Wąbrzeźno</td>
+		</tr>
+		<tr>
+			<td>CW</td>
+			<td>Włocławek (miasto)</td>
+		</tr>
+		<tr>
+			<td>CWL</td>
+			<td>Włocławek (powiat)</td>
+		</tr>
+		<tr>
+			<td>CZN</td>
+			<td>Żnin</td>
+		</tr>
+		<tr>
+			<td>DB</td>
+			<td>Wałbrzych (miasto)</td>
+		</tr>
+		<tr>
+			<td>DBA</td>
+			<td>Wałbrzych (powiat)</td>
+		</tr>
+		<tr>
+			<td>DBL</td>
+			<td>Bolesławiec</td>
+		</tr>
+		<tr>
+			<td>DDZ</td>
+			<td>Dzierżoniów</td>
+		</tr>
+		<tr>
+			<td>DGL</td>
+			<td>Głogów</td>
+		</tr>
+		<tr>
+			<td>DGR</td>
+			<td>Góra</td>
+		</tr>
+		<tr>
+			<td>DJ</td>
+			<td>Jelenia Góra (miasto)</td>
+		</tr>
+		<tr>
+			<td>DJA</td>
+			<td>Jawor</td>
+		</tr>
+		<tr>
+			<td>DJE</td>
+			<td>Jelenia Góra (powiat)</td>
+		</tr>
+		<tr>
+			<td>DKA</td>
+			<td>Kamienna Góra</td>
+		</tr>
+		<tr>
+			<td>DKL</td>
+			<td>Kłodzko</td>
+		</tr>
+		<tr>
+			<td>DL</td>
+			<td>Legnica (miasto)</td>
+		</tr>
+		<tr>
+			<td>DLB</td>
+			<td>Lubań</td>
+		</tr>
+		<tr>
+			<td>DLE</td>
+			<td>Legnica (powiat)</td>
+		</tr>
+		<tr>
+			<td>DLU</td>
+			<td>Lubin</td>
+		</tr>
+		<tr>
+			<td>DLW</td>
+			<td>Lwówek Śląski</td>
+		</tr>
+		<tr>
+			<td>DMI</td>
+			<td>Milicz</td>
+		</tr>
+		<tr>
+			<td>DOA</td>
+			<td>Oława</td>
+		</tr>
+		<tr>
+			<td>DOL</td>
+			<td>Oleśnica</td>
+		</tr>
+		<tr>
+			<td>DPL</td>
+			<td>Polkowice</td>
+		</tr>
+		<tr>
+			<td>DSR</td>
+			<td>Środa Śląska</td>
+		</tr>
+		<tr>
+			<td>DST</td>
+			<td>Strzelin</td>
+		</tr>
+		<tr>
+			<td>DSW</td>
+			<td>Świdnica</td>
+		</tr>
+		<tr>
+			<td>DTR</td>
+			<td>Trzebnica</td>
+		</tr>
+		<tr>
+			<td>DW</td>
+			<td>Wrocław (miasto)</td>
+		</tr>
+		<tr>
+			<td>DWL</td>
+			<td>Wołów</td>
+		</tr>
+		<tr>
+			<td>DWR</td>
+			<td>Wrocław (powiat)</td>
+		</tr>
+		<tr>
+			<td>DZA</td>
+			<td>Ząbkowice Ślaskie</td>
+		</tr>
+		<tr>
+			<td>DZG</td>
+			<td>Zgorzelec</td>
+		</tr>
+		<tr>
+			<td>DZL</td>
+			<td>Złotoryja</td>
+		</tr>
+		<tr>
+			<td>EBE</td>
+			<td>Bełchatów</td>
+		</tr>
+		<tr>
+			<td>EBR</td>
+			<td>Brzeziny</td>
+		</tr>
+		<tr>
+			<td>EKU</td>
+			<td>Kutno</td>
+		</tr>
+		<tr>
+			<td>EL</td>
+			<td>Łódź (miasto)</td>
+		</tr>
+		<tr>
+			<td>ELA</td>
+			<td>Łask</td>
+		</tr>
+		<tr>
+			<td>ELC</td>
+			<td>Łowicz</td>
+		</tr>
+		<tr>
+			<td>ELE</td>
+			<td>Łęczyca</td>
+		</tr>
+		<tr>
+			<td>ELW</td>
+			<td>Łódź Wschód</td>
+		</tr>
+		<tr>
+			<td>EOP</td>
+			<td>Opoczno</td>
+		</tr>
+		<tr>
+			<td>EP</td>
+			<td>Piotrków Trybunalski (miasto)</td>
+		</tr>
+		<tr>
+			<td>EPA</td>
+			<td>Pabianice</td>
+		</tr>
+		<tr>
+			<td>EPD</td>
+			<td>Poddębice</td>
+		</tr>
+		<tr>
+			<td>EPI</td>
+			<td>Piotrków Trybunalski (powiat)</td>
+		</tr>
+		<tr>
+			<td>EPJ</td>
+			<td>Pajęczno</td>
+		</tr>
+		<tr>
+			<td>ERA</td>
+			<td>Radomsko</td>
+		</tr>
+		<tr>
+			<td>ERW</td>
+			<td>Rawa Mazowoecka</td>
+		</tr>
+		<tr>
+			<td>ES</td>
+			<td>Skierniewice</td>
+		</tr>
+		<tr>
+			<td>ESI</td>
+			<td>Sieradz</td>
+		</tr>
+		<tr>
+			<td>ESK</td>
+			<td>Skierniewice</td>
+		</tr>
+		<tr>
+			<td>ETM</td>
+			<td>Tomaszów Mazowiecki</td>
+		</tr>
+		<tr>
+			<td>EWE</td>
+			<td>Wieruszów</td>
+		</tr>
+		<tr>
+			<td>EWI</td>
+			<td>Wieluń</td>
+		</tr>
+		<tr>
+			<td>EZD</td>
+			<td>Zduńska Wola</td>
+		</tr>
+		<tr>
+			<td>EZG</td>
+			<td>Zgierz</td>
+		</tr>
+		<tr>
+			<td>FG</td>
+			<td>Gorzów Wielkopolski (miasto)</td>
+		</tr>
+		<tr>
+			<td>FGW</td>
+			<td>Gorzów Wielkopolski (powiat)</td>
+		</tr>
+		<tr>
+			<td>FKR</td>
+			<td>Krosno Odrzańskie</td>
+		</tr>
+		<tr>
+			<td>FMI</td>
+			<td>Międzyrzecz</td>
+		</tr>
+		<tr>
+			<td>FNW</td>
+			<td>Nowa Sól</td>
+		</tr>
+		<tr>
+			<td>FSD</td>
+			<td>Strzelce Krajeńskie</td>
+		</tr>
+		<tr>
+			<td>FSL</td>
+			<td>Słubice</td>
+		</tr>
+		<tr>
+			<td>FSU</td>
+			<td>Sulęcin</td>
+		</tr>
+		<tr>
+			<td>FSW</td>
+			<td>Świebodzin</td>
+		</tr>
+		<tr>
+			<td>FWS</td>
+			<td>Wschowa</td>
+		</tr>
+		<tr>
+			<td>FZ</td>
+			<td>Zielona Góra (miasto)</td>
+		</tr>
+		<tr>
+			<td>FZA</td>
+			<td>Żary</td>
+		</tr>
+		<tr>
+			<td>FZG</td>
+			<td>Żagań</td>
+		</tr>
+		<tr>
+			<td>FZI</td>
+			<td>Zielona Góra (powiat)</td>
+		</tr>
+		<tr>
+			<td>GA</td>
+			<td>Gdynia</td>
+		</tr>
+		<tr>
+			<td>GBY</td>
+			<td>Bytów</td>
+		</tr>
+		<tr>
+			<td>GCH</td>
+			<td>Chojnice</td>
+		</tr>
+		<tr>
+			<td>GCZ</td>
+			<td>Człuchów</td>
+		</tr>
+		<tr>
+			<td>GD</td>
+			<td>Gdańsk (miasto)</td>
+		</tr>
+		<tr>
+			<td>GDA</td>
+			<td>Gdańsk (powiat - Pruszcz Gdański)</td>
+		</tr>
+		<tr>
+			<td>GKA</td>
+			<td>Kartuzy</td>
+		</tr>
+		<tr>
+			<td>GKS</td>
+			<td>Kościerzyna</td>
+		</tr>
+		<tr>
+			<td>GKW</td>
+			<td>Kwidzyn</td>
+		</tr>
+		<tr>
+			<td>GLE</td>
+			<td>Lębork</td>
+		</tr>
+		<tr>
+			<td>GMB</td>
+			<td>Malbork</td>
+		</tr>
+		<tr>
+			<td>GND</td>
+			<td>Nowy Dwór Gdański</td>
+		</tr>
+		<tr>
+			<td>GPU</td>
+			<td>Puck</td>
+		</tr>
+		<tr>
+			<td>GS</td>
+			<td>Słupsk (miasto)</td>
+		</tr>
+		<tr>
+			<td>GSL</td>
+			<td>Słupsk (powiat)</td>
+		</tr>
+		<tr>
+			<td>GSP</td>
+			<td>Sopot</td>
+		</tr>
+		<tr>
+			<td>GST</td>
+			<td>Starogard Gdański</td>
+		</tr>
+		<tr>
+			<td>GSZ</td>
+			<td>Sztum</td>
+		</tr>
+		<tr>
+			<td>GTC</td>
+			<td>Tczew</td>
+		</tr>
+		<tr>
+			<td>GWE</td>
+			<td>Wejherowo</td>
+		</tr>
+		<tr>
+			<td>KBC</td>
+			<td>Bochnia</td>
+		</tr>
+		<tr>
+			<td>KBR</td>
+			<td>Brzesko</td>
+		</tr>
+		<tr>
+			<td>KCH</td>
+			<td>Chrzanów</td>
+		</tr>
+		<tr>
+			<td>KDA</td>
+			<td>Dąbrowa Tarnowska</td>
+		</tr>
+		<tr>
+			<td>KGR</td>
+			<td>Gorlice</td>
+		</tr>
+		<tr>
+			<td>KLI</td>
+			<td>Limanowa</td>
+		</tr>
+		<tr>
+			<td>KMI</td>
+			<td>Miechów</td>
+		</tr>
+		<tr>
+			<td>KMY</td>
+			<td>Myślenice</td>
+		</tr>
+		<tr>
+			<td>KN</td>
+			<td>Nowy Sącz (miasto)</td>
+		</tr>
+		<tr>
+			<td>KNS</td>
+			<td>Nowy Sącz (powiat)</td>
+		</tr>
+		<tr>
+			<td>KNT</td>
+			<td>Nowy Targ</td>
+		</tr>
+		<tr>
+			<td>KOL</td>
+			<td>Olkusz</td>
+		</tr>
+		<tr>
+			<td>KOS</td>
+			<td>Oświęcim</td>
+		</tr>
+		<tr>
+			<td>KPR</td>
+			<td>Proszowice</td>
+		</tr>
+		<tr>
+			<td>KR</td>
+			<td>Kraków (miasto)</td>
+		</tr>
+		<tr>
+			<td>KRA</td>
+			<td>Kraków (powiat)</td>
+		</tr>
+		<tr>
+			<td>KSU</td>
+			<td>Sucha Beskidzka</td>
+		</tr>
+		<tr>
+			<td>KT</td>
+			<td>Tarnów (miasto)</td>
+		</tr>
+		<tr>
+			<td>KTA</td>
+			<td>Tarnów (powiat)</td>
+		</tr>
+		<tr>
+			<td>KTT</td>
+			<td>Zakopane</td>
+		</tr>
+		<tr>
+			<td>KWA</td>
+			<td>Wadowice</td>
+		</tr>
+		<tr>
+			<td>KWI</td>
+			<td>Wieliczka</td>
+		</tr>
+		<tr>
+			<td>LB</td>
+			<td>Biała Podlaska (miasto)</td>
+		</tr>
+		<tr>
+			<td>LBI</td>
+			<td>Biała Podlaska (powiat)</td>
+		</tr>
+		<tr>
+			<td>LBL</td>
+			<td>Biłgoraj</td>
+		</tr>
+		<tr>
+			<td>LC</td>
+			<td>Chełm (miasto)</td>
+		</tr>
+		<tr>
+			<td>LCH</td>
+			<td>Chełm (powiat)</td>
+		</tr>
+		<tr>
+			<td>LHR</td>
+			<td>Hrubieszów</td>
+		</tr>
+		<tr>
+			<td>LJA</td>
+			<td>Janów Lubelski</td>
+		</tr>
+		<tr>
+			<td>LKR</td>
+			<td>Kraśnik</td>
+		</tr>
+		<tr>
+			<td>LKS</td>
+			<td>Krasnystaw</td>
+		</tr>
+		<tr>
+			<td>LLB</td>
+			<td>Lubartów</td>
+		</tr>
+		<tr>
+			<td>LLE</td>
+			<td>Łęczna</td>
+		</tr>
+		<tr>
+			<td>LLU</td>
+			<td>Łuków</td>
+		</tr>
+		<tr>
+			<td>LOP</td>
+			<td>Opole Lubelskie</td>
+		</tr>
+		<tr>
+			<td>LPA</td>
+			<td>Parczew</td>
+		</tr>
+		<tr>
+			<td>LPU</td>
+			<td>Puławy</td>
+		</tr>
+		<tr>
+			<td>LRA</td>
+			<td>Radzyń Podlaski</td>
+		</tr>
+		<tr>
+			<td>LRY</td>
+			<td>Ryki</td>
+		</tr>
+		<tr>
+			<td>LSW</td>
+			<td>Świdnik</td>
+		</tr>
+		<tr>
+			<td>LTM</td>
+			<td>Tomaszów Lubelski</td>
+		</tr>
+		<tr>
+			<td>LU</td>
+			<td>Lublin (miasto)</td>
+		</tr>
+		<tr>
+			<td>LUB</td>
+			<td>Lublin (powiat)</td>
+		</tr>
+		<tr>
+			<td>LWL</td>
+			<td>Włodawa</td>
+		</tr>
+		<tr>
+			<td>LZ</td>
+			<td>Zamość (miasto)</td>
+		</tr>
+		<tr>
+			<td>LZA</td>
+			<td>Zamość (powiat)</td>
+		</tr>
+		<tr>
+			<td>NBA</td>
+			<td>Bartoszyce</td>
+		</tr>
+		<tr>
+			<td>NBR</td>
+			<td>Braniewo</td>
+		</tr>
+		<tr>
+			<td>NDZ</td>
+			<td>Działdowo</td>
+		</tr>
+		<tr>
+			<td>NE</td>
+			<td>Elbląg (miasto)</td>
+		</tr>
+		<tr>
+			<td>NEB</td>
+			<td>Elbląg (powiat)</td>
+		</tr>
+		<tr>
+			<td>NEL</td>
+			<td>Ełk</td>
+		</tr>
+		<tr>
+			<td>NGI</td>
+			<td>Giżycko</td>
+		</tr>
+		<tr>
+			<td>NGO</td>
+			<td>Gołdap</td>
+		</tr>
+		<tr>
+			<td>NIL</td>
+			<td>Iława</td>
+		</tr>
+		<tr>
+			<td>NKE</td>
+			<td>Kętrzyn</td>
+		</tr>
+		<tr>
+			<td>NLI</td>
+			<td>Lidzbark Warmiński</td>
+		</tr>
+		<tr>
+			<td>NMR</td>
+			<td>Mrągowo</td>
+		</tr>
+		<tr>
+			<td>NNI</td>
+			<td>Nidzica</td>
+		</tr>
+		<tr>
+			<td>NNM</td>
+			<td>Nowe Miasto Lubawskie</td>
+		</tr>
+		<tr>
+			<td>NO</td>
+			<td>Olsztyn (miasto)</td>
+		</tr>
+		<tr>
+			<td>NOE</td>
+			<td>Olecko (od 2002r.)</td>
+		</tr>
+		<tr>
+			<td>NOG</td>
+			<td>Olecko (do 2002r.)</td>
+		</tr>
+		<tr>
+			<td>NOL</td>
+			<td>Olsztyn (powiat)</td>
+		</tr>
+		<tr>
+			<td>NOS</td>
+			<td>Ostróda</td>
+		</tr>
+		<tr>
+			<td>NPI</td>
+			<td>Pisz</td>
+		</tr>
+		<tr>
+			<td>NSZ</td>
+			<td>Szczytno</td>
+		</tr>
+		<tr>
+			<td>NWE</td>
+			<td>Węgorzewo</td>
+		</tr>
+		<tr>
+			<td>OB</td>
+			<td>Brzeg</td>
+		</tr>
+		<tr>
+			<td>OGL</td>
+			<td>Głubczyce</td>
+		</tr>
+		<tr>
+			<td>OK</td>
+			<td>Kędzierzyn - Koźle</td>
+		</tr>
+		<tr>
+			<td>OKL</td>
+			<td>Kluczbork</td>
+		</tr>
+		<tr>
+			<td>OKR</td>
+			<td>Krapkowice</td>
+		</tr>
+		<tr>
+			<td>ONA</td>
+			<td>Namysłów</td>
+		</tr>
+		<tr>
+			<td>ONY</td>
+			<td>Nysa</td>
+		</tr>
+		<tr>
+			<td>OOL</td>
+			<td>Olesno</td>
+		</tr>
+		<tr>
+			<td>OP</td>
+			<td>Opole (miasto)</td>
+		</tr>
+		<tr>
+			<td>OPO</td>
+			<td>Opole (powiat)</td>
+		</tr>
+		<tr>
+			<td>OPR</td>
+			<td>Prudnik</td>
+		</tr>
+		<tr>
+			<td>OST</td>
+			<td>Strzelce Opolskie</td>
+		</tr>
+		<tr>
+			<td>PCH</td>
+			<td>Chodzież</td>
+		</tr>
+		<tr>
+			<td>PCT</td>
+			<td>Czarnków</td>
+		</tr>
+		<tr>
+			<td>PGN</td>
+			<td>Gniezno</td>
+		</tr>
+		<tr>
+			<td>PGO</td>
+			<td>Grodzisk Wielkopolski</td>
+		</tr>
+		<tr>
+			<td>PGS</td>
+			<td>Gostyń</td>
+		</tr>
+		<tr>
+			<td>PJA</td>
+			<td>Jarocin</td>
+		</tr>
+		<tr>
+			<td>PK</td>
+			<td>Kalisz (miasto)</td>
+		</tr>
+		<tr>
+			<td>PKA</td>
+			<td>Kalisz (powiat)</td>
+		</tr>
+		<tr>
+			<td>PKE</td>
+			<td>Kępno</td>
+		</tr>
+		<tr>
+			<td>PKL</td>
+			<td>Koło</td>
+		</tr>
+		<tr>
+			<td>PKN</td>
+			<td>Konin (powiat)</td>
+		</tr>
+		<tr>
+			<td>PKO</td>
+			<td>Konin (miasto do 2002r.)</td>
+		</tr>
+		<tr>
+			<td>PKR</td>
+			<td>Krotoszyn</td>
+		</tr>
+		<tr>
+			<td>PKS</td>
+			<td>Kościan</td>
+		</tr>
+		<tr>
+			<td>PL</td>
+			<td>Leszno (miasto)</td>
+		</tr>
+		<tr>
+			<td>PLE</td>
+			<td>Leszno (powiat)</td>
+		</tr>
+		<tr>
+			<td>PMI</td>
+			<td>Międzychód</td>
+		</tr>
+		<tr>
+			<td>PN</td>
+			<td>Konin (miasto od 2002r.)</td>
+		</tr>
+		<tr>
+			<td>PNT</td>
+			<td>Nowy Tomyśl</td>
+		</tr>
+		<tr>
+			<td>PO</td>
+			<td>Poznań (miasto)</td>
+		</tr>
+		<tr>
+			<td>POB</td>
+			<td>Oborniki</td>
+		</tr>
+		<tr>
+			<td>POS</td>
+			<td>Ostrów Wielkopolski</td>
+		</tr>
+		<tr>
+			<td>POT</td>
+			<td>Ostrzeszów</td>
+		</tr>
+		<tr>
+			<td>POZ</td>
+			<td>Poznań (powiat do 2002r.)</td>
+		</tr>
+		<tr>
+			<td>PP</td>
+			<td>Piła</td>
+		</tr>
+		<tr>
+			<td>PPL</td>
+			<td>Pleszew</td>
+		</tr>
+		<tr>
+			<td>PRA</td>
+			<td>Rawicz</td>
+		</tr>
+		<tr>
+			<td>PSE</td>
+			<td>Śrem</td>
+		</tr>
+		<tr>
+			<td>PSL</td>
+			<td>Słupca</td>
+		</tr>
+		<tr>
+			<td>PSR</td>
+			<td>Środa Wielkopolska</td>
+		</tr>
+		<tr>
+			<td>PSZ</td>
+			<td>Szamotuły</td>
+		</tr>
+		<tr>
+			<td>PTU</td>
+			<td>Turek</td>
+		</tr>
+		<tr>
+			<td>PWA</td>
+			<td>Wągrowiec</td>
+		</tr>
+		<tr>
+			<td>PWL</td>
+			<td>Wolsztyn</td>
+		</tr>
+		<tr>
+			<td>PWR</td>
+			<td>Września</td>
+		</tr>
+		<tr>
+			<td>PZ</td>
+			<td>Poznań (powiat od 2002r.)</td>
+		</tr>
+		<tr>
+			<td>PZL</td>
+			<td>Złotów</td>
+		</tr>
+		<tr>
+			<td>RBI</td>
+			<td>Ustrzyki Dolne</td>
+		</tr>
+		<tr>
+			<td>RBR</td>
+			<td>Brzozów</td>
+		</tr>
+		<tr>
+			<td>RDE</td>
+			<td>Dębica</td>
+		</tr>
+		<tr>
+			<td>RJA</td>
+			<td>Jarosław</td>
+		</tr>
+		<tr>
+			<td>RJS</td>
+			<td>Jasło</td>
+		</tr>
+		<tr>
+			<td>RK</td>
+			<td>Krosno (miasto)</td>
+		</tr>
+		<tr>
+			<td>RKL</td>
+			<td>Kolbuszowa</td>
+		</tr>
+		<tr>
+			<td>RKR</td>
+			<td>Krosno (powiat)</td>
+		</tr>
+		<tr>
+			<td>RLA</td>
+			<td>Łańcut</td>
+		</tr>
+		<tr>
+			<td>RLE</td>
+			<td>Leżajsk</td>
+		</tr>
+		<tr>
+			<td>RLS</td>
+			<td>Lesko</td>
+		</tr>
+		<tr>
+			<td>RLU</td>
+			<td>Lubaczów</td>
+		</tr>
+		<tr>
+			<td>RMI</td>
+			<td>Mielec</td>
+		</tr>
+		<tr>
+			<td>RNI</td>
+			<td>Nisko</td>
+		</tr>
+		<tr>
+			<td>RP</td>
+			<td>Przemyśl (miasto)</td>
+		</tr>
+		<tr>
+			<td>RPR</td>
+			<td>Przemyśl (powiat)</td>
+		</tr>
+		<tr>
+			<td>RPZ</td>
+			<td>Przeworsk</td>
+		</tr>
+		<tr>
+			<td>RRS</td>
+			<td>Ropczyce</td>
+		</tr>
+		<tr>
+			<td>RSA</td>
+			<td>Sanok</td>
+		</tr>
+		<tr>
+			<td>RSR</td>
+			<td>Strzyżów</td>
+		</tr>
+		<tr>
+			<td>RST</td>
+			<td>Stalowa Wola</td>
+		</tr>
+		<tr>
+			<td>RT</td>
+			<td>Tarnobrzeg (miasto)</td>
+		</tr>
+		<tr>
+			<td>RTA</td>
+			<td>Tarnobrzeg (powiat)</td>
+		</tr>
+		<tr>
+			<td>RZ</td>
+			<td>Rzeszów (miasto)</td>
+		</tr>
+		<tr>
+			<td>RZE</td>
+			<td>Rzeszów (powiat)</td>
+		</tr>
+		<tr>
+			<td>SB</td>
+			<td>Bielsko-Biała (miasto)</td>
+		</tr>
+		<tr>
+			<td>SBE</td>
+			<td>Będzin</td>
+		</tr>
+		<tr>
+			<td>SBI</td>
+			<td>Bielsko-Biała (powiat)</td>
+		</tr>
+		<tr>
+			<td>SBL</td>
+			<td>Tychu (powiat - Bieruń od 2002r.)</td>
+		</tr>
+		<tr>
+			<td>SC</td>
+			<td>Częstochowa (miasto)</td>
+		</tr>
+		<tr>
+			<td>SCI</td>
+			<td>Cieszyn</td>
+		</tr>
+		<tr>
+			<td>SCZ</td>
+			<td>Częstochowa (powiat)</td>
+		</tr>
+		<tr>
+			<td>SD</td>
+			<td>Dąbrowa Górnicza</td>
+		</tr>
+		<tr>
+			<td>SG</td>
+			<td>Gliwice (miasto)</td>
+		</tr>
+		<tr>
+			<td>SGL</td>
+			<td>Gliwice (powiat)</td>
+		</tr>
+		<tr>
+			<td>SH</td>
+			<td>Chorzów</td>
+		</tr>
+		<tr>
+			<td>SI</td>
+			<td>Siemianowice Śląskie</td>
+		</tr>
+		<tr>
+			<td>SJ</td>
+			<td>Jaworzno</td>
+		</tr>
+		<tr>
+			<td>SJZ</td>
+			<td>Jastrzębie Zdrój</td>
+		</tr>
+		<tr>
+			<td>SK</td>
+			<td>Katowice</td>
+		</tr>
+		<tr>
+			<td>SKL</td>
+			<td>Kłobuck</td>
+		</tr>
+		<tr>
+			<td>SL</td>
+			<td>Ruda Śląska (od 2002r.)</td>
+		</tr>
+		<tr>
+			<td>SLU</td>
+			<td>Lubliniec</td>
+		</tr>
+		<tr>
+			<td>SM</td>
+			<td>Mysłowice</td>
+		</tr>
+		<tr>
+			<td>SMI</td>
+			<td>Mikołów</td>
+		</tr>
+		<tr>
+			<td>SMY</td>
+			<td>Myszków</td>
+		</tr>
+		<tr>
+			<td>SO</td>
+			<td>Sosnowiec</td>
+		</tr>
+		<tr>
+			<td>SPI</td>
+			<td>Piekary Śląskie</td>
+		</tr>
+		<tr>
+			<td>SPS</td>
+			<td>Pszczyna</td>
+		</tr>
+		<tr>
+			<td>SR</td>
+			<td>Rybnik (miasto)</td>
+		</tr>
+		<tr>
+			<td>SRB</td>
+			<td>Rybnik (powiat)</td>
+		</tr>
+		<tr>
+			<td>SRC</td>
+			<td>Racibórz</td>
+		</tr>
+		<tr>
+			<td>SRS</td>
+			<td>Ruda Śląska (do 2002r.)</td>
+		</tr>
+		<tr>
+			<td>ST</td>
+			<td>Tychy</td>
+		</tr>
+		<tr>
+			<td>STA</td>
+			<td>Tarnowskie Góry</td>
+		</tr>
+		<tr>
+			<td>STY</td>
+			<td>Tychy (powiat do 2002r.)</td>
+		</tr>
+		<tr>
+			<td>SW</td>
+			<td>Świętochłowice</td>
+		</tr>
+		<tr>
+			<td>SWD</td>
+			<td>Wodzisław Śląski</td>
+		</tr>
+		<tr>
+			<td>SY</td>
+			<td>Bytom</td>
+		</tr>
+		<tr>
+			<td>SZ</td>
+			<td>Zabrze</td>
+		</tr>
+		<tr>
+			<td>SZA</td>
+			<td>Zawiercie</td>
+		</tr>
+		<tr>
+			<td>SZO</td>
+			<td>Żory</td>
+		</tr>
+		<tr>
+			<td>SZY</td>
+			<td>Żywiec</td>
+		</tr>
+		<tr>
+			<td>TBU</td>
+			<td>Busko Zdrój</td>
+		</tr>
+		<tr>
+			<td>TJE</td>
+			<td>Jędrzejów</td>
+		</tr>
+		<tr>
+			<td>TK</td>
+			<td>Kielce (miasto)</td>
+		</tr>
+		<tr>
+			<td>TKA</td>
+			<td>Kazimierza Wielka</td>
+		</tr>
+		<tr>
+			<td>TKI</td>
+			<td>Kielce (powiat)</td>
+		</tr>
+		<tr>
+			<td>TKN</td>
+			<td>Końskie</td>
+		</tr>
+		<tr>
+			<td>TLW</td>
+			<td>Włoszczowa</td>
+		</tr>
+		<tr>
+			<td>TOP</td>
+			<td>Opatów</td>
+		</tr>
+		<tr>
+			<td>TOS</td>
+			<td>Ostrowiec Świętokrzyski</td>
+		</tr>
+		<tr>
+			<td>TPI</td>
+			<td>Pińczów</td>
+		</tr>
+		<tr>
+			<td>TSA</td>
+			<td>Sandomierz</td>
+		</tr>
+		<tr>
+			<td>TSK</td>
+			<td>Skarżysko-Kamienna</td>
+		</tr>
+		<tr>
+			<td>TST</td>
+			<td>Starachowice</td>
+		</tr>
+		<tr>
+			<td>TSZ</td>
+			<td>Staszów</td>
+		</tr>
+		<tr>
+			<td>WA</td>
+			<td>Warszawa</td>
+		</tr>
+		<tr>
+			<td>WB</td>
+			<td>Warszawa</td>
+		</tr>
+		<tr>
+			<td>WBR</td>
+			<td>Białobrzegi</td>
+		</tr>
+		<tr>
+			<td>WCI</td>
+			<td>Ciechanów</td>
+		</tr>
+		<tr>
+			<td>WD</td>
+			<td>Warszawa</td>
+		</tr>
+		<tr>
+			<td>WE</td>
+			<td>Warszawa</td>
+		</tr>
+		<tr>
+			<td>WF</td>
+			<td>Warszawa</td>
+		</tr>
+		<tr>
+			<td>WG</td>
+			<td>Garwolin</td>
+		</tr>
+		<tr>
+			<td>WGM</td>
+			<td>Grodzisk Mazowiecki</td>
+		</tr>
+		<tr>
+			<td>WGR</td>
+			<td>Grójec</td>
+		</tr>
+		<tr>
+			<td>WGS</td>
+			<td>Gostynin</td>
+		</tr>
+		<tr>
+			<td>WH</td>
+			<td>Warszawa</td>
+		</tr>
+		<tr>
+			<td>WI</td>
+			<td>Warszawa</td>
+		</tr>
+		<tr>
+			<td>WJ</td>
+			<td>Warszawa</td>
+		</tr>
+		<tr>
+			<td>WK</td>
+			<td>Warszawa</td>
+		</tr>
+		<tr>
+			<td>WKZ</td>
+			<td>Kozienice</td>
+		</tr>
+		<tr>
+			<td>WL</td>
+			<td>Legionowo</td>
+		</tr>
+		<tr>
+			<td>WLI</td>
+			<td>Lipsko</td>
+		</tr>
+		<tr>
+			<td>WLS</td>
+			<td>Łosice</td>
+		</tr>
+		<tr>
+			<td>WM</td>
+			<td>Mińsk Mazowiecki</td>
+		</tr>
+		<tr>
+			<td>WMA</td>
+			<td>Maków Mazowiecki</td>
+		</tr>
+		<tr>
+			<td>WML</td>
+			<td>Mława</td>
+		</tr>
+		<tr>
+			<td>WN</td>
+			<td>Warszawa</td>
+		</tr>
+		<tr>
+			<td>WND</td>
+			<td>Nowy Dwór Mazowiecki</td>
+		</tr>
+		<tr>
+			<td>WO</td>
+			<td>Ostrołęka (miasto)</td>
+		</tr>
+		<tr>
+			<td>WOR</td>
+			<td>Ostrów Mazowiecki</td>
+		</tr>
+		<tr>
+			<td>WOS</td>
+			<td>Ostrołęka (powiat)</td>
+		</tr>
+		<tr>
+			<td>WOT</td>
+			<td>Otwock</td>
+		</tr>
+		<tr>
+			<td>WP</td>
+			<td>Płock (miasto)</td>
+		</tr>
+		<tr>
+			<td>WPI</td>
+			<td>Piaseczno</td>
+		</tr>
+		<tr>
+			<td>WPL</td>
+			<td>Płock (powiat)</td>
+		</tr>
+		<tr>
+			<td>WPN</td>
+			<td>Płońsk</td>
+		</tr>
+		<tr>
+			<td>WPR</td>
+			<td>Pruszków</td>
+		</tr>
+		<tr>
+			<td>WPU</td>
+			<td>Pułtusk</td>
+		</tr>
+		<tr>
+			<td>WPY</td>
+			<td>Przysucha</td>
+		</tr>
+		<tr>
+			<td>WPZ</td>
+			<td>Przasnysz</td>
+		</tr>
+		<tr>
+			<td>WR</td>
+			<td>Radom (miasto)</td>
+		</tr>
+		<tr>
+			<td>WRA</td>
+			<td>Radom (powiat)</td>
+		</tr>
+		<tr>
+			<td>WS</td>
+			<td>Siedlce (miasto)</td>
+		</tr>
+		<tr>
+			<td>WSC</td>
+			<td>Sochaczew</td>
+		</tr>
+		<tr>
+			<td>WSE</td>
+			<td>Sierpc</td>
+		</tr>
+		<tr>
+			<td>WSK</td>
+			<td>Sokołów Podlaski</td>
+		</tr>
+		<tr>
+			<td>WSI</td>
+			<td>Siedlce (powiat)</td>
+		</tr>
+		<tr>
+			<td>WSZ</td>
+			<td>Szydłowiec</td>
+		</tr>
+		<tr>
+			<td>WT</td>
+			<td>Warszawa</td>
+		</tr>
+		<tr>
+			<td>WU</td>
+			<td>Warszawa</td>
+		</tr>
+		<tr>
+			<td>WV</td>
+			<td>Wołomin (od 2003r.)</td>
+		</tr>
+		<tr>
+			<td>WWE</td>
+			<td>Węgrów</td>
+		</tr>
+		<tr>
+			<td>WWL</td>
+			<td>Wołomin (do 2003r.)</td>
+		</tr>
+		<tr>
+			<td>WWY</td>
+			<td>Wyszków</td>
+		</tr>
+		<tr>
+			<td>WX</td>
+			<td>Warszawa</td>
+		</tr>
+		<tr>
+			<td>WY</td>
+			<td>Warszawa</td>
+		</tr>
+		<tr>
+			<td>WZ</td>
+			<td>Warszawa Zachód</td>
+		</tr>
+		<tr>
+			<td>WZU</td>
+			<td>Żuromin</td>
+		</tr>
+		<tr>
+			<td>WZW</td>
+			<td>Zwoleń</td>
+		</tr>
+		<tr>
+			<td>WZY</td>
+			<td>Żyrardów</td>
+		</tr>
+		<tr>
+			<td>ZBI</td>
+			<td>Białogard</td>
+		</tr>
+		<tr>
+			<td>ZCH</td>
+			<td>Choszczno</td>
+		</tr>
+		<tr>
+			<td>ZDR</td>
+			<td>Drawsko Pomorskie</td>
+		</tr>
+		<tr>
+			<td>ZGL</td>
+			<td>Goleniów</td>
+		</tr>
+		<tr>
+			<td>ZGR</td>
+			<td>Gryfino</td>
+		</tr>
+		<tr>
+			<td>ZGY</td>
+			<td>Gryfice</td>
+		</tr>
+		<tr>
+			<td>ZK</td>
+			<td>Koszalin (miasto)</td>
+		</tr>
+		<tr>
+			<td>ZKA</td>
+			<td>Kamień Pomorski</td>
+		</tr>
+		<tr>
+			<td>ZKL</td>
+			<td>Kołobrzeg</td>
+		</tr>
+		<tr>
+			<td>ZKO</td>
+			<td>Koszalin (powiat)</td>
+		</tr>
+		<tr>
+			<td>ZLO</td>
+			<td>Łobez</td>
+		</tr>
+		<tr>
+			<td>ZMY</td>
+			<td>Myślibórz</td>
+		</tr>
+		<tr>
+			<td>ZPL</td>
+			<td>Police</td>
+		</tr>
+		<tr>
+			<td>ZPY</td>
+			<td>Pyrzyce</td>
+		</tr>
+		<tr>
+			<td>ZS</td>
+			<td>Szczecin</td>
+		</tr>
+		<tr>
+			<td>ZSD</td>
+			<td>Świdwin</td>
+		</tr>
+		<tr>
+			<td>ZSL</td>
+			<td>Sławno</td>
+		</tr>
+		<tr>
+			<td>ZST</td>
+			<td>Stargard Szczeciński</td>
+		</tr>
+		<tr>
+			<td>ZSW</td>
+			<td>Świnoujście</td>
+		</tr>
+		<tr>
+			<td>ZSZ</td>
+			<td>Szczecinek</td>
+		</tr>
+		<tr>
+			<td>ZWA</td>
+			<td>Wałcz</td>
+		</tr>
+		
+<!-- ############ WYROZNIKI SLUZB WEWNETRZNYCH ############# -->
+		<tr>
+			<td>HB</td>
+			<td>wojska MSWiA (do 2003r.)</td>
+		</tr>
+		<tr>
+			<td>HB</td>
+			<td>Biuro Ochrony Rządu (od 2003r.)</td>
+		</tr>
+		<tr>
+			<td>HC</td>
+			<td>Izba Celna</td>
+		</tr>
+		<tr>
+			<td>HK</td>
+			<td>Agencja Bezpieczeństwa Wewnętrznego i Agencja Wywiadu</td>
+		</tr>
+		<tr>
+			<td>HM</td>
+			<td>Służba Wywiadu Wojskowego i Służba Kontrwywiadu Wojskowego</td>
+		</tr>
+		<tr>
+			<td>HP</td>
+			<td>Policja</td>
+		</tr>
+		<tr>
+			<td>HS</td>
+			<td>Kontrola Skarbowa</td>
+		</tr>
+		<tr>
+			<td>HW</td>
+			<td>Straż Graniczna</td>
+		</tr>
+
+<!-- ############ WYROZNIKI SIL ZBROJNYCH ############# -->
+		<tr>
+			<td>UA</td>
+			<td>Samochód osobowy lub terenowy sił zbrojnych</td>
+		</tr>
+		<tr>
+			<td>UB</td>
+			<td>Transporter opancerzony sił zbrojnych</td>
+		</tr>
+		<tr>
+			<td>UC</td>
+			<td>Samochód dostawczy sił zbrojnych</td>
+		</tr>
+		<tr>
+			<td>UD</td>
+			<td>Autobus sił zbrojnych</td>
+		</tr>
+		<tr>
+			<td>UE</td>
+			<td>Samochód ciężarowy sił zbrojnych</td>
+		</tr>
+		<tr>
+			<td>UG</td>
+			<td>Pojazd specjalistyczny sił zbrojnych</td>
+		</tr>
+		<tr>
+			<td>UI<br>UJ</td>
+			<td>Przyczepa sił zbrojnych</td>
+		</tr>
+		<tr>
+			<td>UxxxxxT</td>
+			<td>Pojazd gąsienicowy sił zbrojnych</td>
+		</tr>
+
+<!-- ############ WYROZNIKI SIL POLICJI ############# -->
+		<tr>
+			<td>HPA</td>
+			<td>Komenda Główna</td>
+		</tr>
+		<tr>
+			<td>HPB</td>
+			<td>Dolnośląska Komenda Wojewódzka</td>
+		</tr>
+		<tr>
+			<td>HPC</td>
+			<td>Kujawsko-Pomorska Komenda Wojewódzka</td>
+		</tr>
+		<tr>
+			<td>HPD</td>
+			<td>Lubelska Komenda Wojewódzka</td>
+		</tr>
+		<tr>
+			<td>HPE</td>
+			<td>Lubuska Komenda Wojewódzka</td>
+		</tr>
+		<tr>
+			<td>HPF</td>
+			<td>Łódzka Komenda Wojewódzka</td>
+		</tr>
+		<tr>
+			<td>HPG</td>
+			<td>Małopolska Komenda Wojewódzka</td>
+		</tr>
+		<tr>
+			<td>HPH</td>
+			<td>Mazowiecka Komenda Wojewódzka</td>
+		</tr>
+		<tr>
+			<td>HPJ</td>
+			<td>Opolska Komenda Wojewódzka</td>
+		</tr>
+		<tr>
+			<td>HPK</td>
+			<td>Podkarpacka Komenda Wojewódzka</td>
+		</tr>
+		<tr>
+			<td>HPL A001-C999<br>HPL 01AA-99CZ</td>
+			<td>Wyższa Szkoła Policji w Szczytnie</td>
+		</tr>
+		<tr>
+			<td>HPL D001-E999<br>HPL 01DA-99EZ</td>
+			<td>Szkoła Policji w Pile</td>
+		</tr>
+		<tr>
+			<td>HPL F001-G999<br>HPL 01FA-99GZ</td>
+			<td>Szkoła Policji w Słupsku</td>
+		</tr>
+		<tr>
+			<td>HPL H001-J999<br>HPL 01HA-99JZ</td>
+			<td>Centrum Szkolenia Policji w Legionowie</td>
+		</tr>
+		<tr>
+			<td>HPL K001-L999<br>HPL 01KA-99LZ</td>
+			<td>Szkoła Policji w Katowicach</td>
+		</tr>
+		<tr>
+			<td>HPM</td>
+			<td>Podlaska Komenda Wojewódzka</td>
+		</tr>
+		<tr>
+			<td>HPN</td>
+			<td>Pomorska Komenda Wojewódzka</td>
+		</tr>
+		<tr>
+			<td>HPP</td>
+			<td>Śląska Komenda Wojewódzka</td>
+		</tr>
+		<tr>
+			<td>HPS</td>
+			<td>Świętokrzyska Komenda Wojewódzka</td>
+		</tr>
+		<tr>
+			<td>HPT</td>
+			<td>Warmińsko-Mazurska Komenda Wojewódzka</td>
+		</tr>
+		<tr>
+			<td>HPU</td>
+			<td>Wielkopolska Komenda Wojewódzka</td>
+		</tr>
+		<tr>
+			<td>HPW</td>
+			<td>Zachodniopomorska Komenda Wojewódzka</td>
+		</tr>
+		<tr>
+			<td>HPZ</td>
+			<td>Komenda Stołeczna Policji</td>
+		</tr>
+
+<!-- ############ WYROZNIKI IZBY CELNEJ ############# -->
+		<tr>
+			<td>HCA</td>
+			<td>Izba Celna w Olsztynie</td>
+		</tr>
+		<tr>
+			<td>HCB</td>
+			<td>Izba Celna w Białymstoku</td>
+		</tr>
+		<tr>
+			<td>HCC</td>
+			<td>Izba Celna w Białej Podlaskiej</td>
+		</tr>
+		<tr>
+			<td>HCD</td>
+			<td>Izba Celna w Przemyślu</td>
+		</tr>
+		<tr>
+			<td>HCE</td>
+			<td>Izba Celna w Krakowie</td>
+		</tr>
+		<tr>
+			<td>HCF</td>
+			<td>Izba Celna w Katowicch</td>
+		</tr>
+		<tr>
+			<td>HCG</td>
+			<td>Izba Celna we Wrocławiu</td>
+		</tr>
+		<tr>
+			<td>HCH</td>
+			<td>Izba Celna w Rzepinie</td>
+		</tr>
+		<tr>
+			<td>HCJ</td>
+			<td>Izba Celna w Szczecinie</td>
+		</tr>
+		<tr>
+			<td>HCK</td>
+			<td>Izba Celna w Gdyni</td>
+		</tr>
+		<tr>
+			<td>HCL</td>
+			<td>Izba Celna w Warszawie</td>
+		</tr>
+		<tr>
+			<td>HCM</td>
+			<td>Izba Celna w Toruniu</td>
+		</tr>
+		<tr>
+			<td>HCN</td>
+			<td>Izba Celna w Łodzi</td>
+		</tr>
+		<tr>
+			<td>HCO</td>
+			<td>Izba Celna w Poznaniu</td>
+		</tr>
+		<tr>
+			<td>HCP</td>
+			<td>Izba Celna w Opolu</td>
+		</tr>
+		<tr>
+			<td>HCR</td>
+			<td>Izba Celna w Kielcach</td>
+		</tr>
+
+<!-- ############ WYROZNIKI KONTROLI SKARBOWEJ ############# -->
+		<tr>
+			<td>HSB</td>
+			<td>Kontrola skarbowa - województwo podlaskie</td>
+		</tr>
+		<tr>
+			<td>HSC</td>
+			<td>Kontrola skarbowa - województwo kujawsko-pomorskie</td>
+		</tr>
+		<tr>
+			<td>HSD</td>
+			<td>Kontrola skarbowa - województwo dolnośląskie</td>
+		</tr>
+		<tr>
+			<td>HSE</td>
+			<td>Kontrola skarbowa - województwo łódzkie</td>
+		</tr>
+		<tr>
+			<td>HSF</td>
+			<td>Kontrola skarbowa - województwo lubuskie</td>
+		</tr>
+		<tr>
+			<td>HSG</td>
+			<td>Kontrola skarbowa - województwo pomorskie</td>
+		</tr>
+		<tr>
+			<td>HSK</td>
+			<td>Kontrola skarbowa - województwo małopolskie</td>
+		</tr>
+		<tr>
+			<td>HSL</td>
+			<td>Kontrola skarbowa - województwo lubelskie</td>
+		</tr>
+		<tr>
+			<td>HSN</td>
+			<td>Kontrola skarbowa - województwo warmińsko-mazurskie</td>
+		</tr>
+		<tr>
+			<td>HSO</td>
+			<td>Kontrola skarbowa - województwo opolskie</td>
+		</tr>
+		<tr>
+			<td>HSP</td>
+			<td>Kontrola skarbowa - województwo wielkopolskie</td>
+		</tr>
+		<tr>
+			<td>HSR</td>
+			<td>Kontrola skarbowa - województwo podkarpackie</td>
+		</tr>
+		<tr>
+			<td>HSS</td>
+			<td>Kontrola skarbowa - województwo śląskie</td>
+		</tr>
+		<tr>
+			<td>HST</td>
+			<td>Kontrola skarbowa - województwo świętokrzyskie</td>
+		</tr>
+		<tr>
+			<td>HSW</td>
+			<td>Kontrola skarbowa - województwo mazowieckie</td>
+		</tr>
+		<tr>
+			<td>HSZ</td>
+			<td>Kontrola skarbowa - województwo zachodniopomorskie</td>
+		</tr>
+
+	</tbody>
+</table>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+	var rowCount = $('tr').length;
+	var rows = $('tr');
+	var data = [];
+	for (var i = 0 ; i < rowCount ; i++) {
+		var code = rows.eq(i).find('td').eq(0).text();
+		var name = rows.eq(i).find('td').eq(1).text();
+
+		data.push({
+			code: code, 
+			name: name
+		});
+	}
+	// console.log(JSON.stringify(data));
+
+
+	var old = [
+	{code: 'BI', name: 'Białystok', region: 'województwo podlaskie', isCapital: 'capital', wiki: 'http://pl.wikipedia.org/wiki/Bia%C5%82ystok'},
+	{code: 'BLM', name: 'Łomża powiat', region: 'województwo podlaskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_%C5%82om%C5%BCy%C5%84ski'},
+	{code: 'BL', name: 'Łomża miasto', region: 'województwo podlaskie', wiki: 'http://pl.wikipedia.org/wiki/%C5%81om%C5%BCa'},
+	{code: 'BMN', name: 'Mońki', region: 'województwo podlaskie', wiki: 'http://pl.wikipedia.org/wiki/Mo%C5%84ki'},
+	{code: 'BS', name: 'Suwałki miasto', region: 'województwo podlaskie', wiki: 'http://pl.wikipedia.org/wiki/Suwa%C5%82ki'},
+	{code: 'BSE', name: 'Sejny', region: 'województwo podlaskie', wiki: 'http://pl.wikipedia.org/wiki/Sejny'},
+	{code: 'BAU', name: 'Augustów', region: 'województwo podlaskie', wiki: 'http://pl.wikipedia.org/wiki/August%C3%B3w'},
+	{code: 'BSI', name: 'Siemiatycze', region: 'województwo podlaskie', wiki: 'http://pl.wikipedia.org/wiki/Siemiatycze'},
+	{code: 'BBI', name: 'Bielsk Podlaski', region: 'województwo podlaskie', wiki: 'http://pl.wikipedia.org/wiki/Bielsk_Podlaski'},
+	{code: 'BSK', name: 'Sokółka', region: 'województwo podlaskie', wiki: 'http://pl.wikipedia.org/wiki/Sok%C3%B3%C5%82ka'},
+	{code: 'BGR', name: 'Grajewo', region: 'województwo podlaskie', wiki: 'http://pl.wikipedia.org/wiki/Grajewo'},
+	{code: 'BSU', name: 'Suwałki powiat', region: 'województwo podlaskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_suwalski'},
+	{code: 'BHA', name: 'Hajnówka', region: 'województwo podlaskie', wiki: 'http://pl.wikipedia.org/wiki/Hajn%C3%B3wka'},
+	{code: 'BWM', name: 'Wysokie Mazowieckie', region: 'województwo podlaskie', wiki: 'http://pl.wikipedia.org/wiki/Wysokie_Mazowieckie'},
+	{code: 'BIA', name: 'Białystok powiat', region: 'województwo podlaskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_bia%C5%82ostocki'},
+	{code: 'BZA', name: 'Zambrów', region: 'województwo podlaskie', wiki: 'http://pl.wikipedia.org/wiki/Zambr%C3%B3w'},
+	{code: 'BKL', name: 'Kolno', region: 'województwo podlaskie', wiki: 'http://pl.wikipedia.org/wiki/Kolno'},
+	{code: 'CB', name: 'Bydgoszcz', region: 'województwo kujawsko-pomorskie', isCapital: 'capital', wiki: 'http://pl.wikipedia.org/wiki/Bydgoszcz'},
+	{code: 'CMG', name: 'Mogilno', region: 'województwo kujawsko-pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Mogilno'},
+	{code: 'CG', name: 'Grudziądz miasto', region: 'województwo kujawsko-pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Grudzi%C4%85dz'},
+	{code: 'CNA', name: 'Nakło n. Notecią', region: 'województwo kujawsko-pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Nak%C5%82o_nad_Noteci%C4%85'},
+	{code: 'CT', name: 'Toruń', region: 'województwo kujawsko-pomorskie', isCapital: 'capital', wiki: 'http://pl.wikipedia.org/wiki/Toru%C5%84'},
+	{code: 'CRA', name: 'Radziejów', region: 'województwo kujawsko-pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Radziej%C3%B3w'},
+	{code: 'CW', name: 'Włocławek miasto', region: 'województwo kujawsko-pomorskie', wiki: 'http://pl.wikipedia.org/wiki/W%C5%82oc%C5%82awek'},
+	{code: 'CRY', name: 'Rypin', region: 'województwo kujawsko-pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Rypin'},
+	{code: 'CAL', name: 'Aleksandrów Kujawski', region: 'województwo kujawsko-pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Aleksandr%C3%B3w_Kujawski'},
+	{code: 'CSE', name: 'Sępólno Krajeńskie', region: 'województwo kujawsko-pomorskie', wiki: 'http://pl.wikipedia.org/wiki/S%C4%99p%C3%B3lno_Kraje%C5%84skie'},
+	{code: 'CBR', name: 'Brodnica', region: 'województwo kujawsko-pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Brodnica'},
+	{code: 'CSW', name: 'Świecie', region: 'województwo kujawsko-pomorskie', wiki: 'http://pl.wikipedia.org/wiki/%C5%9Awiecie'},
+	{code: 'CBY', name: 'Bydgoszcz powiat', region: 'województwo kujawsko-pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_bydgoski'},
+	{code: 'CTR', name: 'Toruń powiat', region: 'województwo kujawsko-pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_toru%C5%84ski'},
+	{code: 'CCH', name: 'Chełmno', region: 'województwo kujawsko-pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Che%C5%82mno'},
+	{code: 'CTU', name: 'Tuchola', region: 'województwo kujawsko-pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Tuchola'},
+	{code: 'CGD', name: 'Golub-Dobrzyń', region: 'województwo kujawsko-pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Golub-Dobrzy%C5%84'},
+	{code: 'CWA', name: 'Wąbrzeźno', region: 'województwo kujawsko-pomorskie', wiki: 'http://pl.wikipedia.org/wiki/W%C4%85brze%C5%BAno'},
+	{code: 'CGR', name: 'Grudziądz powiat', region: 'województwo kujawsko-pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_grudzi%C4%85dzki'},
+	{code: 'CWL', name: 'Włocławek powiat', region: 'województwo kujawsko-pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_w%C5%82oc%C5%82awski'},
+	{code: 'CIN', name: 'Inowrocław', region: 'województwo kujawsko-pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Inowroc%C5%82aw'},
+	{code: 'CZN', name: 'Żnin', region: 'województwo kujawsko-pomorskie', wiki: 'http://pl.wikipedia.org/wiki/%C5%BBnin'},
+	{code: 'CLI', name: 'Lipno', region: 'województwo kujawsko-pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Lipno'},
+	{code: 'DB', name: 'Wałbrzych miasto', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/Wa%C5%82brzych'},
+	{code: 'DLU', name: 'Lubin', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/Lubin'},
+	{code: 'DJ', name: 'Jelenia Góra miasto', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/Jelenia_G%C3%B3ra'},
+	{code: 'DLW', name: 'Lwówek', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/Lw%C3%B3wek'},
+	{code: 'DL', name: 'Legnica miasto', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/Legnica'},
+	{code: 'DMI', name: 'Milicz', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/Milicz'},
+	{code: 'DW', name: 'Wrocław', region: 'województwo dolnośląskie', isCapital: 'capital', wiki: 'http://pl.wikipedia.org/wiki/Wroc%C5%82aw'},
+	{code: 'DOA', name: 'Oława', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/O%C5%82awa'},
+	{code: 'DBA', name: 'Wałbrzych powiat', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_wa%C5%82brzyski'},
+	{code: 'DOL', name: 'Oleśnica', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/Ole%C5%9Bnica'},
+	{code: 'DBL', name: 'Bolesławiec', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/Boles%C5%82awiec'},
+	{code: 'DPL', name: 'Polkowice', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/Polkowice'},
+	{code: 'DDZ', name: 'Dzierżoniów', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/Dzier%C5%BConi%C3%B3w'},
+	{code: 'DSR', name: 'Środa Śl.', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/%C5%9Aroda_%C5%9Al%C4%85ska'},
+	{code: 'DGL', name: 'Głogów', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/G%C5%82og%C3%B3w'},
+	{code: 'DST', name: 'Strzelin', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/Strzelin'},
+	{code: 'DGR', name: 'Góra', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/G%C3%B3ra_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)'},
+	{code: 'DSW', name: 'Świdnica', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/%C5%9Awidnica'},
+	{code: 'DJA', name: 'Jawor', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/Jawor_(miasto)'},
+	{code: 'DTR', name: 'Trzebnica', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/Trzebnica'},
+	{code: 'DJE', name: 'Jelenia Góra powiat', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_jeleniog%C3%B3rski'},
+	{code: 'DWL', name: 'Wołów', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/Wo%C5%82%C3%B3w'},
+	{code: 'DKA', name: 'Kamienna Góra', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/Kamienna_G%C3%B3ra'},
+	{code: 'DWR', name: 'Wrocław powiat', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_wroc%C5%82awski'},
+	{code: 'DKL', name: 'Kłodzko', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/K%C5%82odzko'},
+	{code: 'DZA', name: 'Ząbkowice', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/Z%C4%85bkowice'},
+	{code: 'DLB', name: 'Lubań', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/Luba%C5%84_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)'},
+	{code: 'DZG', name: 'Zgorzelec', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/Zgorzelec'},
+	{code: 'DLE', name: 'Legnica powiat', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_legnicki'},
+	{code: 'DZL', name: 'Złotoryja', region: 'województwo dolnośląskie', wiki: 'http://pl.wikipedia.org/wiki/Z%C5%82otoryja'},
+	{code: 'EL', name: 'Łódź', region: 'województwo łódzkie', isCapital: 'capital', wiki: 'http://pl.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA'},
+	{code: 'EPD', name: 'Poddębice', region: 'województwo łódzkie', wiki: 'http://pl.wikipedia.org/wiki/Podd%C4%99bice'},
+	{code: 'EP', name: 'Piotrków Tryb. miasto', region: 'województwo łódzkie', wiki: 'http://pl.wikipedia.org/wiki/Piotrk%C3%B3w_Trybunalski'},
+	{code: 'EPI', name: 'Piotrków Tryb. powiat', region: 'województwo łódzkie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_piotrkowski'},
+	{code: 'ES', name: 'Skierniewice miasto', region: 'województwo łódzkie', wiki: 'http://pl.wikipedia.org/wiki/Skierniewice'},
+	{code: 'EPJ', name: 'Pajęczno', region: 'województwo łódzkie', wiki: 'http://pl.wikipedia.org/wiki/Paj%C4%99czno'},
+	{code: 'EBE', name: 'Bełchatów', region: 'województwo łódzkie', wiki: 'http://pl.wikipedia.org/wiki/Be%C5%82chat%C3%B3w'},
+	{code: 'ERA', name: 'Radomsko', region: 'województwo łódzkie', wiki: 'http://pl.wikipedia.org/wiki/Radomsko'},
+	{code: 'EBR', name: 'Brzeziny', region: 'województwo łódzkie', wiki: 'http://pl.wikipedia.org/wiki/Brzeziny'},
+	{code: 'ERW', name: 'Rawa Mazowiecka', region: 'województwo łódzkie', wiki: 'http://pl.wikipedia.org/wiki/Rawa_Mazowiecka'},
+	{code: 'EKU', name: 'Kutno', region: 'województwo łódzkie', wiki: 'http://pl.wikipedia.org/wiki/Kutno'},
+	{code: 'ESI', name: 'Sieradz', region: 'województwo łódzkie', wiki: 'http://pl.wikipedia.org/wiki/Sieradz'},
+	{code: 'ELA', name: 'Łask', region: 'województwo łódzkie', wiki: 'http://pl.wikipedia.org/wiki/%C5%81ask'},
+	{code: 'ESK', name: 'Skierniewice powiat', region: 'województwo łódzkie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_skierniewicki'},
+	{code: 'ELC', name: 'Łowicz', region: 'województwo łódzkie', wiki: 'http://pl.wikipedia.org/wiki/%C5%81owicz'},
+	{code: 'ETM', name: 'Tomaszów Mazowiecki', region: 'województwo łódzkie', wiki: 'http://pl.wikipedia.org/wiki/Tomasz%C3%B3w_Mazowiecki'},
+	{code: 'ELE', name: 'Łęczyca', region: 'województwo łódzkie', wiki: 'http://pl.wikipedia.org/wiki/%C5%81%C4%99czyca'},
+	{code: 'EWE', name: 'Wieruszów', region: 'województwo łódzkie', wiki: 'http://pl.wikipedia.org/wiki/Wierusz%C3%B3w'},
+	{code: 'ELW', name: 'Łódź powiat', region: 'województwo łódzkie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_%C5%82%C3%B3dzki'},
+	{code: 'EWI', name: 'Wieluń', region: 'województwo łódzkie', wiki: 'http://pl.wikipedia.org/wiki/Wielu%C5%84'},
+	{code: 'EOP', name: 'Opoczno', region: 'województwo łódzkie', wiki: 'http://pl.wikipedia.org/wiki/Opoczno'},
+	{code: 'EZD', name: 'Zduńska Wola', region: 'województwo łódzkie', wiki: 'http://pl.wikipedia.org/wiki/Zdu%C5%84ska_Wola'},
+	{code: 'EPA', name: 'Pabianice', region: 'województwo łódzkie', wiki: 'http://pl.wikipedia.org/wiki/Zdu%C5%84ska_Wola'},
+	{code: 'EZG', name: 'Zgierz', region: 'województwo łódzkie', wiki: 'http://pl.wikipedia.org/wiki/Zgierz'},
+	{code: 'FG', name: 'Gorzów Wlkp.', region: 'województwo lubuskie', isCapital: 'capital', wiki: 'http://pl.wikipedia.org/wiki/Gorz%C3%B3w_Wielkopolski'},
+	{code: 'FSL', name: 'Słubice', region: 'województwo lubuskie', wiki: 'http://pl.wikipedia.org/wiki/S%C5%82ubice'},
+	{code: 'FZ', name: 'Zielona Góra', region: 'województwo lubuskie', isCapital: 'capital', wiki: 'http://pl.wikipedia.org/wiki/Zielona_G%C3%B3ra'},
+	{code: 'FSU', name: 'Sulęcin', region: 'województwo lubuskie', wiki: 'http://pl.wikipedia.org/wiki/Sul%C4%99cin'},
+	{code: 'FGW', name: 'Gorzów Wlkp. powiat', region: 'województwo lubuskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_gorzowski'},
+	{code: 'FSW', name: 'Świebodzin', region: 'województwo lubuskie', wiki: 'http://pl.wikipedia.org/wiki/%C5%9Awiebodzin'},
+	{code: 'FKR', name: 'Krosno Odrzańskie', region: 'województwo lubuskie', wiki: 'http://pl.wikipedia.org/wiki/Krosno_Odrza%C5%84skie'},
+	{code: 'FWS', name: 'Wschowa', region: 'województwo lubuskie', wiki: 'http://pl.wikipedia.org/wiki/Wschowa'},
+	{code: 'FMI', name: 'Międzyrzecz', region: 'województwo lubuskie', wiki: 'http://pl.wikipedia.org/wiki/Mi%C4%99dzyrzecz'},
+	{code: 'FZA', name: 'Żary', region: 'województwo lubuskie', wiki: 'http://pl.wikipedia.org/wiki/%C5%BBary'},
+	{code: 'FNW', name: 'Nowa Sól', region: 'województwo lubuskie', wiki: 'http://pl.wikipedia.org/wiki/Nowa_S%C3%B3l'},
+	{code: 'FZG', name: 'Żagań', region: 'województwo lubuskie', wiki: 'http://pl.wikipedia.org/wiki/%C5%BBaga%C5%84'},
+	{code: 'FSD', name: 'Strzelce Krajeńskie', region: 'województwo lubuskie', wiki: 'http://pl.wikipedia.org/wiki/Strzelce_Kraje%C5%84skie'},
+	{code: 'FZI', name: 'Zielona Góra powiat', region: 'województwo lubuskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_zielonog%C3%B3rski'},
+	{code: 'GA', name: 'Gdynia', region: 'województwo pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Gdynia'},
+	{code: 'GLE', name: 'Lębork', region: 'województwo pomorskie', wiki: 'http://pl.wikipedia.org/wiki/L%C4%99bork'},
+	{code: 'GD', name: 'Gdańsk', region: 'województwo pomorskie', isCapital: 'capital', wiki: 'http://pl.wikipedia.org/wiki/Gda%C5%84sk'},
+	{code: 'GMB', name: 'Malbork', region: 'województwo pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Malbork'},
+	{code: 'GS', name: 'Słupsk miasto', region: 'województwo pomorskie', wiki: 'http://pl.wikipedia.org/wiki/S%C5%82upsk'},
+	{code: 'GND', name: 'Nowy Dwór Gdański', region: 'województwo pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Nowy_Dw%C3%B3r_Gda%C5%84ski'},
+	{code: 'GBY', name: 'Bytów', region: 'województwo pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Byt%C3%B3w'},
+	{code: 'GPU', name: 'Puck', region: 'województwo pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Puck'},
+	{code: 'GCH', name: 'Chojnice', region: 'województwo pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Chojnice'},
+	{code: 'GSL', name: 'Słupsk powiat', region: 'województwo pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_s%C5%82upski'},
+	{code: 'GCZ', name: 'Człuchów', region: 'województwo pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Cz%C5%82uch%C3%B3w'},
+	{code: 'GSP', name: 'Sopot', region: 'województwo pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Sopot'},
+	{code: 'GDA', name: 'Pruszcz Gdański', region: 'województwo pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Pruszcz_Gda%C5%84ski'},
+	{code: 'GST', name: 'Starogard Gdański', region: 'województwo pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Starogard_Gda%C5%84ski'},
+	{code: 'GKA', name: 'Kartuzy', region: 'województwo pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Kartuzy'},
+	{code: 'GSZ', name: 'Sztum', region: 'województwo pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Sztum'},
+	{code: 'GKS', name: 'Kościerzyna', region: 'województwo pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Ko%C5%9Bcierzyna'},
+	{code: 'GTC', name: 'Tczew', region: 'województwo pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Tczew'},
+	{code: 'GKW', name: 'Kwidzyn', region: 'województwo pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Kwidzyn'},
+	{code: 'GWE', name: 'Wejherowo', region: 'województwo pomorskie', wiki: 'http://pl.wikipedia.org/wiki/Wejherowo'},
+	{code: 'KN', name: 'Nowy Sącz miasto', region: 'województwo małopolskie', wiki: 'http://pl.wikipedia.org/wiki/Nowy_S%C4%85cz'},
+	{code: 'KNS', name: 'Nowy Sącz powiat', region: 'województwo małopolskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_nowos%C4%85decki'},
+	{code: 'KR', name: 'Kraków', region: 'województwo małopolskie', isCapital: 'capital', wiki: 'http://pl.wikipedia.org/wiki/Krak%C3%B3w'},
+	{code: 'KNT', name: 'Nowy Targ', region: 'województwo małopolskie', wiki: 'http://pl.wikipedia.org/wiki/Nowy_Targ'},
+	{code: 'KT', name: 'Tarnów miasto', region: 'województwo małopolskie', wiki: 'http://pl.wikipedia.org/wiki/Tarn%C3%B3w'},
+	{code: 'KOL', name: 'Olkusz', region: 'województwo małopolskie', wiki: 'http://pl.wikipedia.org/wiki/Olkusz'},
+	{code: 'KBC', name: 'Bochnia', region: 'województwo małopolskie', wiki: 'http://pl.wikipedia.org/wiki/Bochnia'},
+	{code: 'KOS', name: 'Oświęcim', region: 'województwo małopolskie', wiki: 'http://pl.wikipedia.org/wiki/O%C5%9Bwi%C4%99cim'},
+	{code: 'KBR', name: 'Brzesko', region: 'województwo małopolskie', wiki: 'http://pl.wikipedia.org/wiki/Brzesko'},
+	{code: 'KPR', name: 'Proszowice', region: 'województwo małopolskie', wiki: 'http://pl.wikipedia.org/wiki/Proszowice'},
+	{code: 'KCH', name: 'Chrzanów', region: 'województwo małopolskie', wiki: 'http://pl.wikipedia.org/wiki/Chrzan%C3%B3w'},
+	{code: 'KRA', name: 'Kraków powiat', region: 'województwo małopolskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_krakowski'},
+	{code: 'KDA', name: 'Dąbrowa Tarnowska', region: 'województwo małopolskie', wiki: 'http://pl.wikipedia.org/wiki/D%C4%85browa_Tarnowska'},
+	{code: 'KSU', name: 'Sucha Beskidzka', region: 'województwo małopolskie', wiki: 'http://pl.wikipedia.org/wiki/Sucha_Beskidzka'},
+	{code: 'KGR', name: 'Gorlice', region: 'województwo małopolskie', wiki: 'http://pl.wikipedia.org/wiki/Sucha_Beskidzka'},
+	{code: 'KTA', name: 'Tarnów powiat', region: 'województwo małopolskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_tarnowski'},
+	{code: 'KLI', name: 'Limanowa', region: 'województwo małopolskie', wiki: 'http://pl.wikipedia.org/wiki/Limanowa'},
+	{code: 'KTT', name: 'Zakopane', region: 'województwo małopolskie', wiki: 'http://pl.wikipedia.org/wiki/Zakopane'},
+	{code: 'KMI', name: 'Miechów', region: 'województwo małopolskie', wiki: 'http://pl.wikipedia.org/wiki/Miech%C3%B3w'},
+	{code: 'KWA', name: 'Wadowice', region: 'województwo małopolskie', wiki: 'http://pl.wikipedia.org/wiki/Wadowice'},
+	{code: 'KMY', name: 'Myślenice', region: 'województwo małopolskie', wiki: 'http://pl.wikipedia.org/wiki/My%C5%9Blenice'},
+	{code: 'KWI', name: 'Wieliczka', region: 'województwo małopolskie', wiki: 'http://pl.wikipedia.org/wiki/Wieliczka'},
+	{code: 'LB', name: 'Biała Podlaska miasto', region: 'województwo lubelskie', wiki: 'http://pl.wikipedia.org/wiki/Bia%C5%82a_Podlaska'},
+	{code: 'LLE', name: 'Łęczna', region: 'województwo lubelskie', wiki: 'http://pl.wikipedia.org/wiki/%C5%81%C4%99czna'},
+	{code: 'LC', name: 'Chełm miasto', region: 'województwo lubelskie', wiki: 'http://pl.wikipedia.org/wiki/Che%C5%82m'},
+	{code: 'LLU', name: 'Łuków', region: 'województwo lubelskie', wiki: 'http://pl.wikipedia.org/wiki/%C5%81uk%C3%B3w'},
+	{code: 'LU', name: 'Lublin', region: 'województwo lubelskie', isCapital: 'capital', wiki: 'http://pl.wikipedia.org/wiki/Lublin'},
+	{code: 'LOP', name: 'Opole Lubelskie', region: 'województwo lubelskie', wiki: 'http://pl.wikipedia.org/wiki/Opole_Lubelskie'},
+	{code: 'LZ', name: 'Zamość miasto', region: 'województwo lubelskie', wiki: 'http://pl.wikipedia.org/wiki/Zamo%C5%9B%C4%87'},
+	{code: 'LPA', name: 'Parczew', region: 'województwo lubelskie', wiki: 'http://pl.wikipedia.org/wiki/Parczew'},
+	{code: 'LBI', name: 'Biała Podlaska powiat', region: 'województwo lubelskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_bialski'},
+	{code: 'LPU', name: 'Puławy', region: 'województwo lubelskie', wiki: 'http://pl.wikipedia.org/wiki/Pu%C5%82awy'},
+	{code: 'LBL', name: 'Biłgoraj', region: 'województwo lubelskie', wiki: 'http://pl.wikipedia.org/wiki/Bi%C5%82goraj'},
+	{code: 'LRA', name: 'Radzyń Podlaski', region: 'województwo lubelskie', wiki: 'http://pl.wikipedia.org/wiki/Radzy%C5%84_Podlaski'},
+	{code: 'LCH', name: 'Chełm powiat', region: 'województwo lubelskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_che%C5%82mski'},
+	{code: 'LRY', name: 'Ryki', region: 'województwo lubelskie', wiki: 'http://pl.wikipedia.org/wiki/Ryki'},
+	{code: 'LHR', name: 'Hrubieszów', region: 'województwo lubelskie', wiki: 'http://pl.wikipedia.org/wiki/Hrubiesz%C3%B3w'},
+	{code: 'LSW', name: 'Świdnik', region: 'województwo lubelskie', wiki: 'http://pl.wikipedia.org/wiki/%C5%9Awidnik'},
+	{code: 'LJA', name: 'Janów Lubelski', region: 'województwo lubelskie', wiki: 'http://pl.wikipedia.org/wiki/Jan%C3%B3w_Lubelski'},
+	{code: 'LTM', name: 'Tomaszów Lubelski', region: 'województwo lubelskie', wiki: 'http://pl.wikipedia.org/wiki/Tomasz%C3%B3w_Lubelski'},
+	{code: 'LKR', name: 'Kraśnik', region: 'województwo lubelskie', wiki: 'http://pl.wikipedia.org/wiki/Kra%C5%9Bnik'},
+	{code: 'LUB', name: 'Lublin powiat', region: 'województwo lubelskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_lubelski'},
+	{code: 'LKS', name: 'Krasnystaw', region: 'województwo lubelskie', wiki: 'http://pl.wikipedia.org/wiki/Krasnystaw'},
+	{code: 'LWL', name: 'Włodawa', region: 'województwo lubelskie', wiki: 'http://pl.wikipedia.org/wiki/W%C5%82odawa'},
+	{code: 'LLB', name: 'Lubartów', region: 'województwo lubelskie', wiki: 'http://pl.wikipedia.org/wiki/Lubart%C3%B3w'},
+	{code: 'LZA', name: 'Zamość powiat', region: 'województwo lubelskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_zamojski'},
+	{code: 'NE', name: 'Elbląg miasto', region: 'województwo warmińsko-mazurskie', wiki: 'http://pl.wikipedia.org/wiki/Elbl%C4%85g'},
+	{code: 'NLI', name: 'Lidzbark Warmiński', region: 'województwo warmińsko-mazurskie', wiki: 'http://pl.wikipedia.org/wiki/Lidzbark_Warmi%C5%84ski'},
+	{code: 'NO', name: 'Olsztyn', region: 'województwo warmińsko-mazurskie', isCapital: 'capital', wiki: 'http://pl.wikipedia.org/wiki/Olsztyn'},
+	{code: 'NMR', name: 'Mrągowo', region: 'województwo warmińsko-mazurskie', wiki: 'http://pl.wikipedia.org/wiki/Mr%C4%85gowo'},
+	{code: 'NBA', name: 'Bartoszyce', region: 'województwo warmińsko-mazurskie', wiki: 'http://pl.wikipedia.org/wiki/Bartoszyce'},
+	{code: 'NNI', name: 'Nidzica', region: 'województwo warmińsko-mazurskie', wiki: 'http://pl.wikipedia.org/wiki/Nidzica'},
+	{code: 'NBR', name: 'Braniewo', region: 'województwo warmińsko-mazurskie', wiki: 'http://pl.wikipedia.org/wiki/Braniewo'},
+	{code: 'NNM', name: 'Nowe Miasto Lub.', region: 'województwo warmińsko-mazurskie', wiki: 'http://pl.wikipedia.org/wiki/Nowe_Miasto_Lubawskie'},
+	{code: 'NDZ', name: 'Działdowo', region: 'województwo warmińsko-mazurskie', wiki: 'http://pl.wikipedia.org/wiki/Dzia%C5%82dowo'},
+	{code: 'NOE', name: 'Olecko', region: 'województwo warmińsko-mazurskie', wiki: 'http://pl.wikipedia.org/wiki/Olecko'},
+	{code: 'NEB', name: 'Elbląg powiat', region: 'województwo warmińsko-mazurskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_elbl%C4%85ski'},
+	{code: 'NOL', name: 'Olsztyn powiat', region: 'województwo warmińsko-mazurskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_olszty%C5%84ski'},
+	{code: 'NEL', name: 'Ełk', region: 'województwo warmińsko-mazurskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_e%C5%82cki'},
+	{code: 'NOS', name: 'Ostróda', region: 'województwo warmińsko-mazurskie', wiki: 'http://pl.wikipedia.org/wiki/Ostr%C3%B3da'},
+	{code: 'NGI', name: 'Giżycko', region: 'województwo warmińsko-mazurskie', wiki: 'http://pl.wikipedia.org/wiki/Gi%C5%BCycko'},
+	{code: 'NPI', name: 'Pisz', region: 'województwo warmińsko-mazurskie', wiki: 'http://pl.wikipedia.org/wiki/Pisz'},
+	{code: 'NGO', name: 'Gołdap', region: 'województwo warmińsko-mazurskie', wiki: 'http://pl.wikipedia.org/wiki/Go%C5%82dap'},
+	{code: 'NSZ', name: 'Szczytno', region: 'województwo warmińsko-mazurskie', wiki: 'http://pl.wikipedia.org/wiki/Szczytno'},
+	{code: 'NIL', name: 'Iława', region: 'województwo warmińsko-mazurskie', wiki: 'http://pl.wikipedia.org/wiki/I%C5%82awa'},
+	{code: 'NWE', name: 'Węgorzewo', region: 'województwo warmińsko-mazurskie', wiki: 'http://pl.wikipedia.org/wiki/W%C4%99gorzewo'},
+	{code: 'NKE', name: 'Kętrzyn', region: 'województwo warmińsko-mazurskie', wiki: 'http://pl.wikipedia.org/wiki/K%C4%99trzyn'},
+	{code: 'OB', name: 'Brzeg', region: 'województwo opolskie', wiki: 'http://pl.wikipedia.org/wiki/Brzeg_(miasto)'},
+	{code: 'ONA', name: 'Namysłów', region: 'województwo opolskie', wiki: 'http://pl.wikipedia.org/wiki/Namys%C5%82%C3%B3w'},
+	{code: 'OP', name: 'Opole', region: 'województwo opolskie', isCapital: 'capital', wiki: 'http://pl.wikipedia.org/wiki/Opole'},
+	{code: 'ONY', name: 'Nysa', region: 'województwo opolskie', wiki: 'http://pl.wikipedia.org/wiki/Nysa'},
+	{code: 'OK', name: 'Kędzierzyn Koźle', region: 'województwo opolskie', wiki: 'http://pl.wikipedia.org/wiki/K%C4%99dzierzyn-Ko%C5%BAle'},
+	{code: 'OOL', name: 'Olesno', region: 'województwo opolskie', wiki: 'http://pl.wikipedia.org/wiki/Olesno'},
+	{code: 'OGL', name: 'Głubczyce', region: 'województwo opolskie', wiki: 'http://pl.wikipedia.org/wiki/g%C5%82ubczyce'},
+	{code: 'OPO', name: 'Opole powiat', region: 'województwo opolskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_opolski_(wojew%C3%B3dztwo_opolskie)'},
+	{code: 'OKL', name: 'Kluczbork', region: 'województwo opolskie', wiki: 'http://pl.wikipedia.org/wiki/Kluczbork'},
+	{code: 'OPR', name: 'Prudnik', region: 'województwo opolskie', wiki: 'http://pl.wikipedia.org/wiki/Prudnik'},
+	{code: 'OKR', name: 'Krapkowice', region: 'województwo opolskie', wiki: 'http://pl.wikipedia.org/wiki/Krapkowice'},
+	{code: 'OST', name: 'Strzelce Opolskie', region: 'województwo opolskie', wiki: 'http://pl.wikipedia.org/wiki/Strzelce_Opolskie'},
+	{code: 'PK', name: 'Kalisz miasto', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Kalisz'},
+	{code: 'PLE', name: 'Leszno powiat', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_leszczy%C5%84ski'},
+	{code: 'PL', name: 'Leszno miasto', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Leszno'},
+	{code: 'PMI', name: 'Międzychód', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Mi%C4%99dzych%C3%B3d'},
+	{code: 'PN', name: 'Konin miasto', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Konin'},
+	{code: 'PNT', name: 'Nowy Tomyśl', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Nowy_Tomy%C5%9Bl'},
+	{code: 'PO', name: 'Poznań', region: 'województwo wielkopolskie', isCapital: 'capital', wiki: 'http://pl.wikipedia.org/wiki/Pozna%C5%84'},
+	{code: 'POB', name: 'Oborniki', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Oborniki'},
+	{code: 'PP', name: 'Piła', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Pi%C5%82a_(miasto)'},
+	{code: 'POT', name: 'Ostrzeszów', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Ostrzesz%C3%B3w'},
+	{code: 'PZ', name: 'Poznań powiat', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_pozna%C5%84ski'},
+	{code: 'POS', name: 'Ostrów Wlkp.', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Ostr%C3%B3w_Wielkopolski'},
+	{code: 'PCH', name: 'Chodzież', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Chodzie%C5%BC'},
+	{code: 'POZ', name: 'Poznań powiat', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_pozna%C5%84ski'},
+	{code: 'PCT', name: 'Czarnków', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Czarnk%C3%B3w'},
+	{code: 'PPL', name: 'Pleszew', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Pleszew'},
+	{code: 'PGN', name: 'Gniezno', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Gniezno'},
+	{code: 'PRA', name: 'Rawicz', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Rawicz'},
+	{code: 'PGO', name: 'Grodzisk Wlkp.', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Grodzisk_Wielkopolski'},
+	{code: 'PSE', name: 'Śrem', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/%C5%9Arem'},
+	{code: 'PGS', name: 'Gostyń', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Gosty%C5%84'},
+	{code: 'PSL', name: 'Słupca', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/S%C5%82upca'},
+	{code: 'PJA', name: 'Jarocin', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Jarocin'},
+	{code: 'PSR', name: 'Środa Wlkp.', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/%C5%9Aroda_Wielkopolska'},
+	{code: 'PKA', name: 'Kalisz powiat', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_kaliski'},
+	{code: 'PSZ', name: 'Szamotuły', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Szamotu%C5%82y'},
+	{code: 'PKE', name: 'Kępno', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/K%C4%99pno'},
+	{code: 'PTU', name: 'Turek', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Turek'},
+	{code: 'PKL', name: 'Koło', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Ko%C5%82o_(wojew%C3%B3dztwo_wielkopolskie)'},
+	{code: 'PWA', name: 'Wągrowiec', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/W%C4%85growiec'},
+	{code: 'PKN', name: 'Konin powiat', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_koni%C5%84ski'},
+	{code: 'PWL', name: 'Wolsztyn', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Wolsztyn'},
+	{code: 'PKO', name: 'Konin miasto', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Konin'},
+	{code: 'PWR', name: 'Września', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Wrze%C5%9Bnia'},
+	{code: 'PKR', name: 'Krotoszyn', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Krotoszyn'},
+	{code: 'PZL', name: 'Złotów', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Z%C5%82ot%C3%B3w'},
+	{code: 'PKS', name: 'Kościan', region: 'województwo wielkopolskie', wiki: 'http://pl.wikipedia.org/wiki/Ko%C5%9Bcian'},
+	{code: 'RK', name: 'Krosno miasto', region: 'województwo podkarpackie', wiki: 'http://pl.wikipedia.org/wiki/Krosno'},
+	{code: 'RLS', name: 'Lesko', region: 'województwo podkarpackie', wiki: 'http://pl.wikipedia.org/wiki/Lesko'},
+	{code: 'RP', name: 'Przemyśl miasto', region: 'województwo podkarpackie', wiki: 'http://pl.wikipedia.org/wiki/Przemy%C5%9Bl'},
+	{code: 'RLU', name: 'Lubaczów', region: 'województwo podkarpackie', wiki: 'http://pl.wikipedia.org/wiki/Lubacz%C3%B3w'},
+	{code: 'RT', name: 'Tarnobrzeg miasto', region: 'województwo podkarpackie', wiki: 'http://pl.wikipedia.org/wiki/Tarnobrzeg'},
+	{code: 'RMI', name: 'Mielec', region: 'województwo podkarpackie', wiki: 'http://pl.wikipedia.org/wiki/Mielec'},
+	{code: 'RZ', name: 'Rzeszów', region: 'województwo podkarpackie', isCapital: 'capital', wiki: 'http://pl.wikipedia.org/wiki/Rzesz%C3%B3w'},
+	{code: 'RNI', name: 'Nisko', region: 'województwo podkarpackie', wiki: 'http://pl.wikipedia.org/wiki/Nisko'},
+	{code: 'RBI', name: 'Ustrzyki Dolne', region: 'województwo podkarpackie', wiki: 'http://pl.wikipedia.org/wiki/Ustrzyki_Dolne'},
+	{code: 'RPR', name: 'Przemyśl powiat', region: 'województwo podkarpackie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_przemyski'},
+	{code: 'RBR', name: 'Brzozów', region: 'województwo podkarpackie', wiki: 'http://pl.wikipedia.org/wiki/Brzoz%C3%B3w'},
+	{code: 'RPZ', name: 'Przeworsk', region: 'województwo podkarpackie', wiki: 'http://pl.wikipedia.org/wiki/Przeworsk'},
+	{code: 'RDE', name: 'Dębica', region: 'województwo podkarpackie', wiki: 'http://pl.wikipedia.org/wiki/D%C4%99bica'},
+	{code: 'RRS', name: 'Ropczyce', region: 'województwo podkarpackie', wiki: 'http://pl.wikipedia.org/wiki/Ropczyce'},
+	{code: 'RJA', name: 'Jarosław', region: 'województwo podkarpackie', wiki: 'http://pl.wikipedia.org/wiki/Jaros%C5%82aw'},
+	{code: 'RSA', name: 'Sanok', region: 'województwo podkarpackie', wiki: 'http://pl.wikipedia.org/wiki/Sanok'},
+	{code: 'RJS', name: 'Jasło', region: 'województwo podkarpackie', wiki: 'http://pl.wikipedia.org/wiki/Jas%C5%82o'},
+	{code: 'RSR', name: 'Strzyżów', region: 'województwo podkarpackie', wiki: 'http://pl.wikipedia.org/wiki/Strzy%C5%BC%C3%B3w'},
+	{code: 'RKL', name: 'Kolbuszowa', region: 'województwo podkarpackie', wiki: 'http://pl.wikipedia.org/wiki/Kolbuszowa'},
+	{code: 'RST', name: 'Stalowa Wola', region: 'województwo podkarpackie', wiki: 'http://pl.wikipedia.org/wiki/Stalowa_Wola'},
+	{code: 'RKR', name: 'Krosno powiat', region: 'województwo podkarpackie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_kro%C5%9Bnie%C5%84ski_(wojew%C3%B3dztwo_podkarpackie)'},
+	{code: 'RTA', name: 'Tarnobrzeg powiat', region: 'województwo podkarpackie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_tarnobrzeski'},
+	{code: 'RLA', name: 'Łańcut', region: 'województwo podkarpackie', wiki: 'http://pl.wikipedia.org/wiki/%C5%81a%C5%84cut'},
+	{code: 'RZE', name: 'Rzeszów powiat', region: 'województwo podkarpackie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_rzeszowski'},
+	{code: 'RLE', name: 'Leżajsk', region: 'województwo podkarpackie', wiki: 'http://pl.wikipedia.org/wiki/Le%C5%BCajsk'},
+	{code: 'SB', name: 'Bielsko-Biała miasto', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Bielsko-Bia%C5%82a'},
+	{code: 'SCI', name: 'Cieszyn', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Cieszyn'},
+	{code: 'SC', name: 'Częstochowa miasto', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Cz%C4%99stochowa'},
+	{code: 'SCZ', name: 'Częstochowa powiat', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_cz%C4%99stochowski'},
+	{code: 'SD', name: 'Dąbrowa Górnicza', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/D%C4%85browa_G%C3%B3rnicza'},
+	{code: 'SGL', name: 'Gliwice powiat', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_gliwicki'},
+	{code: 'SG', name: 'Gliwice miasto', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Gliwice'},
+	{code: 'SJZ', name: 'Jastrzębie Zdrój', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Jastrz%C4%99bie_Zdr%C3%B3j'},
+	{code: 'SH', name: 'Chorzów', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Chorz%C3%B3w'},
+	{code: 'SKL', name: 'Kłobuck', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/K%C5%82obuck'},
+	{code: 'SI', name: 'Siemianowice Śląskie', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Siemianowice_%C5%9Al%C4%85skie'},
+	{code: 'SLU', name: 'Lubliniec', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Lubliniec'},
+	{code: 'SJ', name: 'Jaworzno', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Jaworzno'},
+	{code: 'SMI', name: 'Mikołów', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Miko%C5%82%C3%B3w'},
+	{code: 'SK', name: 'Katowice', region: 'województwo śląskie', isCapital: 'capital', wiki: 'http://pl.wikipedia.org/wiki/Katowice'},
+	{code: 'SMY', name: 'Myszków', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Myszk%C3%B3w'},
+	{code: 'SL', name: 'Ruda Śląska', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Ruda_%C5%9Al%C4%85ska'},
+	{code: 'SPI', name: 'Piekary Śląskie', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Piekary_%C5%9Al%C4%85skie'},
+	{code: 'SM', name: 'Mysłowice', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Mys%C5%82owice'},
+	{code: 'SPS', name: 'Pszczyna', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Pszczyna'},
+	{code: 'SO', name: 'Sosnowiec', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Sosnowiec'},
+	{code: 'SRB', name: 'Rybnik powiat', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_rybnicki'},
+	{code: 'SR', name: 'Rybnik miasto', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Rybnik'},
+	{code: 'SRC', name: 'Racibórz', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Racib%C3%B3rz'},
+	{code: 'ST', name: 'Tychy miasto', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Tychy'},
+	{code: 'SRS', name: 'Ruda Śląska', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Ruda_%C5%9Al%C4%85ska'},
+	{code: 'SY', name: 'Bytom', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Bytom'},
+	{code: 'STA', name: 'Tarnowskie Góry', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Tarnowskie_G%C3%B3ry'},
+	{code: 'SW', name: 'Świętochłowice', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/%C5%9Awi%C4%99toch%C5%82owice'},
+	{code: 'SWD', name: 'Wodzisław', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Wodzis%C5%82aw_%C5%9Al%C4%85ski'},
+	{code: 'SZ', name: 'Zabrze', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Zabrze'},
+	{code: 'SZA', name: 'Zawiercie', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Zawiercie'},
+	{code: 'SBE', name: 'Będzin', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/B%C4%99dzin'},
+	{code: 'SZO', name: 'Żory', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/%C5%BBory'},
+	{code: 'SBI', name: 'Bielsko-Biała powiat', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_bielski_(wojew%C3%B3dztwo_%C5%9Bl%C4%85skie)'},
+	{code: 'SZY', name: 'Żywiec', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/%C5%BBywiec'},
+	{code: 'SBL', name: 'Tychy powiat', region: 'województwo śląskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_tyski'},
+	{code: 'TK', name: 'Kielce', region: 'województwo świętokrzyskie', isCapital: 'capital', wiki: 'http://pl.wikipedia.org/wiki/Kielce'},
+	{code: 'TOP', name: 'Opatów', region: 'województwo świętokrzyskie', wiki: 'http://pl.wikipedia.org/wiki/Opat%C3%B3w'},
+	{code: 'TBU', name: 'Busko', region: 'województwo świętokrzyskie', wiki: 'http://pl.wikipedia.org/wiki/Busko'},
+	{code: 'TOS', name: 'Ostrowiec Świętokrzyski', region: 'województwo świętokrzyskie', wiki: 'http://pl.wikipedia.org/wiki/Ostrowiec_%C5%9Awi%C4%99tokrzyski'},
+	{code: 'TJE', name: 'Jędrzejów', region: 'województwo świętokrzyskie', wiki: 'http://pl.wikipedia.org/wiki/J%C4%99drzej%C3%B3w'},
+	{code: 'TPI', name: 'Pińczów', region: 'województwo świętokrzyskie', wiki: 'http://pl.wikipedia.org/wiki/Pi%C5%84cz%C3%B3w'},
+	{code: 'TKA', name: 'Kazimierza Wielka', region: 'województwo świętokrzyskie', wiki: 'http://pl.wikipedia.org/wiki/Kazimierza_Wielka'},
+	{code: 'TSA', name: 'Sandomierz', region: 'województwo świętokrzyskie', wiki: 'http://pl.wikipedia.org/wiki/Sandomierz'},
+	{code: 'TKI', name: 'Kielce powiat', region: 'województwo świętokrzyskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_kielecki'},
+	{code: 'TSK', name: 'Skarżysko-Kamienna', region: 'województwo świętokrzyskie', wiki: 'http://pl.wikipedia.org/wiki/Skar%C5%BCysko-Kamienna'},
+	{code: 'TKN', name: 'Końskie', region: 'województwo świętokrzyskie', wiki: 'http://pl.wikipedia.org/wiki/Ko%C5%84skie'},
+	{code: 'TST', name: 'Starachowice', region: 'województwo świętokrzyskie', wiki: 'http://pl.wikipedia.org/wiki/Starachowice'},
+	{code: 'TLW', name: 'Włoszczowa', region: 'województwo świętokrzyskie', wiki: 'http://pl.wikipedia.org/wiki/W%C5%82oszczowa'},
+	{code: 'TSZ', name: 'Staszów', region: 'województwo świętokrzyskie', wiki: 'http://pl.wikipedia.org/wiki/Stasz%C3%B3w'},
+	{code: 'WA', name: 'Warszawa-Białołęka', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Bia%C5%82o%C5%82%C4%99ka'},
+	{code: 'WM', name: 'Mińsk Mazowiecki', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Mi%C5%84sk_Mazowiecki'},
+	{code: 'WB', name: 'Warszawa-Bemowo', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Bemowo'},
+	{code: 'WN', name: 'Warszawa-Ursynów', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Ursyn%C3%B3w'},
+	{code: 'WD', name: 'Warszawa-Bielany', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Bielany_(Warszawa)'},
+	{code: 'WO', name: 'Ostrołęka miasto', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Ostro%C5%82%C4%99ka'},
+	{code: 'WE', name: 'Warszawa-Mokotów', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Mokot%C3%B3w'},
+	{code: 'WP', name: 'Płock miasto', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/P%C5%82ock'},
+	{code: 'WF', name: 'Warszawa-Praga Pd.', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Praga_Po%C5%82udnie'},
+	{code: 'WR', name: 'Radom miasto', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Radom'},
+	{code: 'WG', name: 'Garwolin', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Garwolin'},
+	{code: 'WS', name: 'Siedlce miasto', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Siedlce'},
+	{code: 'WH', name: 'Warszawa-Praga Pn.', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Praga_P%C3%B3%C5%82noc'},
+	{code: 'WT', name: 'Warszawa-Wawer', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Wawer'},
+	{code: 'WI', name: 'Warszawa-Śródmieście', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/%C5%9Ar%C3%B3dmie%C5%9Bcie_(Warszawa)'},
+	{code: 'WU', name: 'Warszawa-Ochota', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Ochota'},
+	{code: 'WJ', name: 'Warszawa-Targówek', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Targ%C3%B3wek'},
+	{code: 'WY', name: 'Warszawa-Wola', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Wola_(Warszawa)'},
+	{code: 'WK', name: 'Warszawa-Ursus', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Ursus_(Warszawa)'},
+	{code: 'WX', name: 'Warszawa-Żoliborz', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/%C5%BBoliborz'},
+	{code: 'WL', name: 'Legionowo', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Legionowo'},
+	{code: 'WZ', name: 'Warszawa-Zachód', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Warszawa'},
+	{code: 'WBR', name: 'Białobrzegi', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Bia%C5%82obrzegi'},
+	{code: 'WSC', name: 'Sochaczew', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Sochaczew'},
+	{code: 'WCI', name: 'Ciechanów', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Ciechan%C3%B3w'},
+	{code: 'WSE', name: 'Sierpc', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Sierpc'},
+	{code: 'WGM', name: 'Grodzisk', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Grodzisk_Mazowiecki'},
+	{code: 'WSI', name: 'Siedlce powiat', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_siedlecki'},
+	{code: 'WGR', name: 'Grójec', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Gr%C3%B3jec'},
+	{code: 'WSK', name: 'Sokołów Podlaski', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Soko%C5%82%C3%B3w_Podlaski'},
+	{code: 'WGS', name: 'Gostynin', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Gostynin'},
+	{code: 'WSZ', name: 'Szydłowiec', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Szyd%C5%82owiec'},
+	{code: 'WKZ', name: 'Kozienice', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Kozienice'},
+	{code: 'WW..A', name: 'Warszawa-Rembertów', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Rembert%C3%B3w'},
+	{code: 'WLI', name: 'Lipsko', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Lipsko'},
+	{code: 'WW..F', name: 'Warszawa-Wilanów', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Wilan%C3%B3w'},
+	{code: 'WLS', name: 'Łosice', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/%C5%81osice'},
+	{code: 'WW..G', name: 'Warszawa-Wilanów', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Wilan%C3%B3w'},
+	{code: 'WMA', name: 'Maków Mazowiecki', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Mak%C3%B3w_Mazowiecki'},
+	{code: 'WW..H', name: 'Warszawa-Wilanów', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Wilan%C3%B3w'},
+	{code: 'WML', name: 'Mława', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/M%C5%82awa'},
+	{code: 'WW..J', name: 'Warszawa-Wilanów', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Wilan%C3%B3w'},
+	{code: 'WND', name: 'Nowy Dwór Mazowiecki', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Nowy_Dw%C3%B3r_Mazowiecki'},
+	{code: 'WW..K', name: 'Warszawa-Włochy', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/W%C5%82ochy_(Warszawa)'},
+	{code: 'WOR', name: 'Ostrów Mazowiecka', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Ostr%C3%B3w_Mazowiecka'},
+	{code: 'WW..L', name: 'Warszawa-Włochy', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/W%C5%82ochy_(Warszawa)'},
+	{code: 'WOS', name: 'Ostrołęka powiat', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_ostro%C5%82%C4%99cki'},
+	{code: 'WW..M', name: 'Warszawa-Włochy', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/W%C5%82ochy_(Warszawa)'},
+	{code: 'WOT', name: 'Otwock', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Otwock'},
+	{code: 'WW..N', name: 'Warszawa-Włochy', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/W%C5%82ochy_(Warszawa)'},
+	{code: 'WPI', name: 'Piaseczno', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Piaseczno'},
+	{code: 'WW..V', name: 'Warszawa-Włochy', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/W%C5%82ochy_(Warszawa)'},
+	{code: 'WPL', name: 'Płock powiat', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_p%C5%82ocki'},
+	{code: 'WW..W', name: 'Warszawa-Wilanów', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Wilan%C3%B3w'},
+	{code: 'WPN', name: 'Płońsk', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/P%C5%82o%C5%84sk'},
+	{code: 'WWE', name: 'Węgrów', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/W%C4%99gr%C3%B3w'},
+	{code: 'WPR', name: 'Pruszków', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Pruszk%C3%B3w'},
+	{code: 'WWL', name: 'Wołomin', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Wo%C5%82omin'},
+	{code: 'WPU', name: 'Pułtusk', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Pu%C5%82tusk'},
+	{code: 'WWY', name: 'Wyszków', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Wyszk%C3%B3w'},
+	{code: 'WPY', name: 'Przysucha', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Przysucha'},
+	{code: 'WZU', name: 'Żuromin', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/%C5%BBuromin'},
+	{code: 'WPZ', name: 'Przasnysz', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Przasnysz'},
+	{code: 'WZY', name: 'Żyrardów', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/%C5%BByrard%C3%B3w'},
+	{code: 'WRA', name: 'Radom powiat', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_radomski'},
+	{code: 'WZW', name: 'Zwoleń', region: 'województwo mazowieckie', wiki: 'http://pl.wikipedia.org/wiki/Zwole%C5%84'},
+	{code: 'ZK', name: 'Koszalin miasto', region: 'województwo zachodniopomorskie', wiki: 'http://pl.wikipedia.org/wiki/Koszalin'},
+	{code: 'ZLO', name: 'Łobez', region: 'województwo zachodniopomorskie', wiki: 'http://pl.wikipedia.org/wiki/%C5%81obez'},
+	{code: 'ZS', name: 'Szczecin', region: 'województwo zachodniopomorskie', isCapital: 'capital', wiki: 'http://pl.wikipedia.org/wiki/Szczecin'},
+	{code: 'ZMY', name: 'Myślibórz', region: 'województwo zachodniopomorskie', wiki: 'http://pl.wikipedia.org/wiki/My%C5%9Blib%C3%B3rz'},
+	{code: 'ZBI', name: 'Białogard', region: 'województwo zachodniopomorskie', wiki: 'http://pl.wikipedia.org/wiki/Bia%C5%82ogard'},
+	{code: 'ZPL', name: 'Police', region: 'województwo zachodniopomorskie', wiki: 'http://pl.wikipedia.org/wiki/Police'},
+	{code: 'ZCH', name: 'Choszczno', region: 'województwo zachodniopomorskie', wiki: 'http://pl.wikipedia.org/wiki/Choszczno'},
+	{code: 'ZPY', name: 'Pyrzyce', region: 'województwo zachodniopomorskie', wiki: 'http://pl.wikipedia.org/wiki/Pyrzyce'},
+	{code: 'ZDR', name: 'Drawsko', region: 'województwo zachodniopomorskie', wiki: 'http://pl.wikipedia.org/wiki/Drawsko_Pomorskie'},
+	{code: 'ZSD', name: 'Świdwin', region: 'województwo zachodniopomorskie', wiki: 'http://pl.wikipedia.org/wiki/%C5%9Awidwin'},
+	{code: 'ZGL', name: 'Goleniów', region: 'województwo zachodniopomorskie', wiki: 'http://pl.wikipedia.org/wiki/Goleni%C3%B3w'},
+	{code: 'ZSL', name: 'Sławno', region: 'województwo zachodniopomorskie', wiki: 'http://pl.wikipedia.org/wiki/S%C5%82awno'},
+	{code: 'ZGR', name: 'Gryfino', region: 'województwo zachodniopomorskie', wiki: 'http://pl.wikipedia.org/wiki/Gryfino'},
+	{code: 'ZST', name: 'Stargard Szczeciński', region: 'województwo zachodniopomorskie', wiki: 'http://pl.wikipedia.org/wiki/Stargard_Szczeci%C5%84ski'},
+	{code: 'ZGY', name: 'Gryfice', region: 'województwo zachodniopomorskie', wiki: 'http://pl.wikipedia.org/wiki/Gryfice'},
+	{code: 'ZSW', name: 'Świnoujście', region: 'województwo zachodniopomorskie', wiki: 'http://pl.wikipedia.org/wiki/%C5%9Awinouj%C5%9Bcie'},
+	{code: 'ZKA', name: 'Kamień Pomorski', region: 'województwo zachodniopomorskie', wiki: 'http://pl.wikipedia.org/wiki/Kamie%C5%84_Pomorski'},
+	{code: 'ZSZ', name: 'Szczecinek', region: 'województwo zachodniopomorskie', wiki: 'http://pl.wikipedia.org/wiki/Szczecinek'},
+	{code: 'ZKL', name: 'Kołobrzeg', region: 'województwo zachodniopomorskie', wiki: 'http://pl.wikipedia.org/wiki/Ko%C5%82obrzeg'},
+	{code: 'ZWA', name: 'Wałcz', region: 'województwo zachodniopomorskie', wiki: 'http://pl.wikipedia.org/wiki/Wa%C5%82cz'},
+	{code: 'ZKO', name: 'Koszalin powiat', region: 'województwo zachodniopomorskie', wiki: 'http://pl.wikipedia.org/wiki/Powiat_koszali%C5%84ski'}
+	];
+	console.log(old.length);
+
+	for (var i = 0 ; i < data.length ; i++) {
+		var exists = false;
+		for (var j = 0 ; j < old.length ; j++) {
+			if (data[i].code === old[j].code) {
+				exists = true;
+				break;
+			}
+		}
+		if (exists != true) {
+			old.push({ code: data[i].code,
+				name: data[i].name});
+			// console.log(JSON.stringify(old[j].code));
+		}
+	} 
+
+
+	console.log(JSON.stringify(old));
+});
+</script>
