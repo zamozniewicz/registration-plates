@@ -5,10 +5,10 @@
     <input ng-model="search.code" class="plate-number" type="text" maxlength="9" autofocus="autofocus">
 </div>
 <ul class="areas">
-    <li ng-repeat="area in areas | filter:search" ng-class="{ 'is-capital': area.isCapital, 'is-special': area.isSpecial }">
+    <li ng-repeat="area in areas | filter:search | orderBy:'code'" ng-class="{ 'is-capital': area.isCapital, 'is-special': area.isSpecial }">
         <div class="areas-code">{{ area.code }}</div>
         <div class="areas-name">{{ area.name }}</div>
-        <div ng-show="areas.region" class="areas-more">
+        <div ng-show="area.region" class="areas-more">
             <div class="areas-description">{{ area.region }}</div>
             <a ng-hide="area.isSpecial" href="{{ getMapLink(area.name, area.region) }}" title="Google Maps"><img src="img/icon-map.png" height="24"></a>
             <a ng-show="area.wiki" href="{{ area.wiki }}" title="Wikipedia"><img src="img/icon-wikipedia.png" height="24"></a>
