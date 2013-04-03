@@ -80,6 +80,10 @@ body {
 }
 
 .areas .is-capital {
+    background: #fcf8e3;
+}
+
+.areas .is-special {
     background: #f0f0f0;
 }
 
@@ -100,6 +104,10 @@ body {
 .areas-more {
     padding: 10px 0 0;
     line-height: 24px;
+}
+
+.areas-description {
+    float: left;
 }
 
 .areas-more a {
