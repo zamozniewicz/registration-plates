@@ -3,6 +3,17 @@
 /* Controllers */
 
 function PlatesListCtrl($scope) {
+    $scope.sort = function (el) {
+        var code = el.code;
+        if ($scope.search
+            && $scope.search.code
+            && el.code.substr(0,1).toUpperCase() === $scope.search.code.substr(0,1).toUpperCase()
+        ) {
+            code = '0' + code;
+        }
+        return code;
+    };
+
     $scope.getMapLink = function (area, region) {
         var location = ['Polska', region, area].join(', ');
         location = encodeURIComponent(location);
