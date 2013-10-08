@@ -1,8 +1,10 @@
 <div class="plate">
-    <div class="plate-country">
-        PL
-    </div>
-    <input ng-model="search.code" class="plate-number" type="text" maxlength="8" autofocus="autofocus">
+	<div class="plate-inner">
+		<div class="plate-country">
+			PL
+		</div>
+		<input ng-model="search.code" class="plate-number" type="text" maxlength="8" autofocus="autofocus">
+	</div>
 </div>
 <ul class="areas">
     <li ng-repeat="area in areas | filter:search | orderBy:sort" ng-class="{ 'is-capital': area.isCapital, 'is-special': area.isSpecial }">
@@ -10,8 +12,10 @@
         <div class="areas-name">{{ area.name }}</div>
         <div ng-show="area.region" class="areas-more">
             <div class="areas-description">{{ area.region }}</div>
-            <a ng-hide="area.isSpecial" href="{{ getMapLink(area.name, area.region) }}" title="Google Maps"><img src="img/icon-map.png" height="24"></a>
-            <a ng-show="area.wiki" href="{{ area.wiki }}" title="Wikipedia"><img src="img/icon-wikipedia.png" height="24"></a>
+			<div class="areas-links">
+				<a target="_blank" ng-hide="area.isSpecial" href="{{ getMapLink(area.name, area.region) }}" title="Google Maps"><img src="img/icon-map.png" height="24"></a>
+				<a target="_blank" ng-show="area.wiki" href="{{ area.wiki }}" title="Wikipedia"><img src="img/icon-wikipedia.png" height="24"></a>
+			</div>
         </div>
     </li>
 </ul>

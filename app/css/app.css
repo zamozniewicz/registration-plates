@@ -110,7 +110,81 @@ body {
     float: left;
 }
 
-.areas-more a {
+.areas-links {
+	float: right;
+}
+
+.areas-links a {
     float: right;
     margin: 0 0 0 20px;
+}
+
+@media only screen and (max-width: 960px) {
+	body {
+		font-size: 14px;
+	}
+
+	.wrapper {
+		width: 90%;
+	}
+
+	.top {
+		margin: 24px 0;
+	}
+
+	.top h1 {
+		display: none;
+	}
+
+	.areas {
+		width: 100%;
+	}
+
+	.areas li {
+		padding: 10px 10px;
+	}
+
+	.areas-code,
+	.areas-name {
+		font-size: 18px;
+		line-height: 24px;
+	}
+
+	.areas-code {
+		width: 110px;
+	}
+
+	.areas-name {
+		margin-left: 120px;
+		text-align: right;
+	}
+
+	.areas-more {
+		font-size: 12px;
+		line-height: 18px;
+	}
+
+	.areas-more img {
+		height: 18px;
+	}
+
+	.plate {
+		width: auto;
+		position: relative;
+		overflow: hidden;
+	}
+
+	.plate-country {
+		position: absolute;
+		left: 0;
+		top: 0;
+	}
+
+	.plate-number {
+		width: 100%;
+		height: 100px;
+		padding-left: 60px;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+	}
 }
