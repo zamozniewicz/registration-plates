@@ -1,0 +1,19 @@
+{
+	"version": "1.0",
+	"name": "Tablice rejestracyjne",
+	"description": "Wyszukiwarka polskich tablic rejestracyjnych",
+	"launch_path": "/index.html",
+	"icons": {
+		"16": "/app-icons/16.png",
+		"30": "/app-icons/30.png",
+		"32": "/app-icons/32.png",
+		"48": "/app-icons/48.png",
+		"60": "/app-icons/60.png",
+		"128": "/app-icons/128.png"
+	},
+	"developer": {
+		"name": "Adam Zamozniewicz",
+		"url": "http://zamozniewicz.pl"
+	},
+	"default_locale": "pl"
+}
