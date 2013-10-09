@@ -7,7 +7,7 @@
 	</div>
 </div>
 <ul class="areas">
-    <li ng-repeat="area in areas | filter:search | orderBy:sort" ng-class="{ 'is-capital': area.isCapital, 'is-special': area.isSpecial }">
+    <li ng-repeat="area in areas | filter:searchFilter | orderBy:sort" ng-class="{ 'is-capital': area.isCapital, 'is-special': area.isSpecial }">
         <div class="areas-code">{{ area.code }}</div>
         <div class="areas-name">{{ area.name }}</div>
         <div ng-show="area.region" class="areas-more">

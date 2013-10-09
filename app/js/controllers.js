@@ -3,6 +3,15 @@
 /* Controllers */
 
 function PlatesListCtrl($scope) {
+	$scope.searchFilter = function (el) {
+		var searchCode = $scope.search ? $scope.search.code.toUpperCase() : '';
+		if (!searchCode) {
+			return false;
+		} else {
+			return el.code.substring(0, searchCode.length) === searchCode;
+		}
+	};
+
 	$scope.sort = function (el) {
 		var code = el.code;
 		if ($scope.search &&
