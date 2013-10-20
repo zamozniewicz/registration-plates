@@ -1,8 +1,6 @@
-Code of polskietablice.pl
+Search engine for Polish registration plates
 ===================
 
-AngularJS app for finding a region that issued Polish vehicle's registration plates.
-
-Application has been based on sample AngularJS project template: https://github.com/angular/angular-seed.
-
+AngularJS app letting you find a region, that issued vehicle's registration plates.
 Working version of the application can be found at http://polskietablice.pl.
+Repository also includes a FirefoxOS packaged application.
